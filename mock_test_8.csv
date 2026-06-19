@@ -1,0 +1,101 @@
+question,option_a,option_b,option_c,option_d,correct,explanation,subject
+Find the next number: 3 6 11 18 27 ?,40,39,38,36,C,Differences: 3 5 7 9. Next diff=11. 27+11=38.,General Intelligence and Reasoning
+Statement: Some cats are dogs. All dogs are animals. Conclusion I: Some cats are animals. Conclusion II: All animals are dogs.,Both follow,Only II follows,Only I follows,Neither follows,C,Some cats are dogs + all dogs are animals = some cats are animals (I). II reverses a universal so it does not follow.,General Intelligence and Reasoning
+If WATER is coded as YCVGT (+2 each) then FIRE is coded as?,GJSF,HKSG,HKTG,GIRE,C,F+2=H I+2=K R+2=T E+2=G. Answer HKTG.,General Intelligence and Reasoning
+Find odd one out: 8 27 64 100 125,125,100,64,27,B,8=2^3 27=3^3 64=4^3 125=5^3. 100 is not a perfect cube.,General Intelligence and Reasoning
+Pointing to a man a woman says He is the son of my fathers only daughter. How is man related to the woman?,Son,Nephew,Brother,Father,A,Fathers only daughter is the woman herself. So the man is her son.,General Intelligence and Reasoning
+Series: Z Y X W V U T S ?,O,Q,R,P,C,Alphabet in reverse. After S comes R.,General Intelligence and Reasoning
+On a standard dice opposite faces sum to 7. If 2 is at front and 3 is at top then what is at bottom?,1,6,4,5,C,On standard dice opposite of 3 is 4 (since 3+4=7). So bottom is 4.,General Intelligence and Reasoning
+If CLOUD is coded as DMPVE (each +1) then STORM is coded as?,TTRPN,TUQSN,RSNQL,TUPSN,D,S+1=T T+1=U O+1=P R+1=S M+1=N. STORM=TUPSN.,General Intelligence and Reasoning
+A is east of B. C is north of A. D is south of B. What direction is D from C?,South-West,North-West,South-East,North-East,A,B is west of A. C is north of A so C is north-east of B. D is south of B. From C to D: go south and west = south-west.,General Intelligence and Reasoning
+If 1st January 2024 is Monday then what day is 1st January 2025?,Thursday,Monday,Wednesday,Tuesday,C,2024 is leap year with 366 days. 366 mod 7 = 2. Monday + 2 = Wednesday.,General Intelligence and Reasoning
+Complete the pattern: 1 4 9 16 25 ?,49,34,36,35,C,Series of perfect squares: 1 4 9 16 25 36.,General Intelligence and Reasoning
+Find the number of straight lines in a figure with 5 points no three collinear?,8,10,12,15,B,Number of lines = 5C2 = 10.,General Intelligence and Reasoning
+Blood relation: A+B means A is father of B. A-B means A is wife of B. If P+Q-R then how is R related to P?,Wife,Daughter,Brother,Son-in-law,D,P is father of Q. Q is wife of R means R is husband of Q. So R is son-in-law of P.,General Intelligence and Reasoning
+Which word cannot be formed from letters of INTERNATIONAL?,TERMINAL,INTER,RATIONAL,NATION,A,INTERNATIONAL has letters I-N-T-E-R-N-A-T-I-O-N-A-L. TERMINAL needs M which is not available.,General Intelligence and Reasoning
+In a code CAT=24 (C=3 A=1 T=20) and DOG=26 (D=4 O=15 G=7). What is PIG?,32,24,28,30,A,P=16 I=9 G=7. Sum=16+9+7=32.,General Intelligence and Reasoning
+Analogy: Pen:Write :: Knife:?,Steel,Blade,Sharp,Cut,D,A pen is used to write. A knife is used to cut.,General Intelligence and Reasoning
+Three of the four are alike. Find the odd one: January March May November,May,January,November,March,C,January March and May have 31 days. November has 30 days.,General Intelligence and Reasoning
+If South-East becomes North and directions rotate accordingly then what does West become?,East,North-West,North-East,South,C,South-East rotating to North means 135 degree clockwise rotation. West (270) + 135 = 405 mod 360 = 45 = North-East.,General Intelligence and Reasoning
+Insert missing number: 5 11 23 47 95 ?,191,189,190,193,A,Pattern: multiply by 2 and add 1. 95*2+1=191.,General Intelligence and Reasoning
+Emotional Intelligence: A colleague is upset about personal issues and work is affected. Best response?,Report them to management immediately,Listen empathetically and offer support while suggesting professional help if needed,Tell them to keep personal issues at home,Ignore them completely,B,Emotional intelligence requires empathy - listening supportively while maintaining professional boundaries.,General Intelligence and Reasoning
+If APPLE=50 (A=1+P=16+P=16+L=12+E=5) then GRAPE=?,55,47,48,52,B,G=7 R=18 A=1 P=16 E=5. Sum=7+18+1+16+5=47.,General Intelligence and Reasoning
+In a class Ravi ranks 7th from top and 28th from bottom. Total students in class?,35,34,33,36,B,Total = 7 + 28 - 1 = 34.,General Intelligence and Reasoning
+Social Intelligence: You notice a new employee eating lunch alone every day. Best approach?,Report to HR,Assume they prefer being alone,Ignore the situation,Invite them to join your group for lunch,D,Social intelligence involves recognizing social situations and taking inclusive action to help others feel welcome.,General Intelligence and Reasoning
+Number series: 2 6 12 20 30 42 ?,58,60,56,54,C,Differences: 4 6 8 10 12. Next diff=14. 42+14=56.,General Intelligence and Reasoning
+If + means brother and - means sister then A+B-C means?,A is sister of B,C is brother of B,A is brother of B who is sister of C,C is sister of B who is brother of A,D,A+B means B is brother of A. B-C means C is sister of B. So C is sister of B who is brother of A.,General Intelligence and Reasoning
+The Great Bath was found at which Indus Valley site?,Kalibangan,Mohenjo-daro,Lothal,Harappa,B,The Great Bath a large public water tank was excavated at Mohenjo-daro in Sindh.,General Awareness
+Kuchipudi dance form originated in which state?,Karnataka,Tamil Nadu,Andhra Pradesh,Kerala,C,Kuchipudi is a classical dance from Andhra Pradesh known for its graceful movements.,General Awareness
+Which national park is famous for one-horned rhinoceros?,Ranthambore,Kaziranga,Gir,Jim Corbett,B,Kaziranga National Park in Assam is home to the largest population of Indian one-horned rhinoceros.,General Awareness
+Who discovered penicillin?,Louis Pasteur,Edward Jenner,Robert Koch,Alexander Fleming,D,Alexander Fleming discovered penicillin in 1928 from the mould Penicillium notatum.,General Awareness
+ISRO launched its first solar mission Aditya-L1 in which year?,2023,2022,2021,2024,A,Aditya-L1 was launched on September 2 2023 to study the Sun from Lagrange point L1.,General Awareness
+The Discovery of India was written by?,Mahatma Gandhi,Rabindranath Tagore,Subhash Bose,Jawaharlal Nehru,D,The Discovery of India was written by Jawaharlal Nehru during his imprisonment in 1944.,General Awareness
+Which Indian won gold in javelin at Tokyo Olympics 2020?,Neeraj Chopra,PV Sindhu,Sushil Kumar,Abhinav Bindra,A,Neeraj Chopra won gold in javelin throw at 2020 Tokyo Olympics with 87.58m throw.,General Awareness
+Ayushman Bharat scheme provides?,Free education,Health insurance of Rs 5 lakh per family,Housing for all,Employment guarantee,B,Ayushman Bharat PM-JAY provides health insurance coverage of Rs 5 lakh per family per year.,General Awareness
+Which country is not a member of original BRICS?,South Africa,India,Russia,Brazil,A,Original BRIC was Brazil Russia India China (2006). South Africa joined in 2010 making it BRICS.,General Awareness
+Narmada River flows into which sea?,Bay of Bengal,Indian Ocean directly,Arabian Sea,None of these,C,Narmada flows westward and empties into the Arabian Sea at the Gulf of Khambhat.,General Awareness
+Hampi ruins are in which state?,Andhra Pradesh,Tamil Nadu,Telangana,Karnataka,D,Hampi the ruins of Vijayanagara Empire capital is in Karnataka. It is a UNESCO World Heritage Site.,General Awareness
+The Chola dynasty was famous for?,Buddhist monasteries,Mughal paintings,Iron pillar construction,Naval power and temple architecture,D,The Chola dynasty was renowned for naval expeditions across Southeast Asia and magnificent temple architecture like Brihadeeswarar.,General Awareness
+The Kyoto Protocol deals with?,Human rights,Trade agreements,Greenhouse gas emissions reduction,Nuclear disarmament,C,Kyoto Protocol (1997) commits industrialized nations to reduce greenhouse gas emissions.,General Awareness
+Qutub Minar is in which city?,Delhi,Jaipur,Agra,Lucknow,A,Qutub Minar a 73m tall minaret built in 1193 is located in Delhi.,General Awareness
+India won how many medals at Asian Games 2023?,120,92,107,85,C,India won a record 107 medals at 2023 Asian Games in Hangzhou (28 gold 38 silver 41 bronze).,General Awareness
+Which planet is known as the Red Planet?,Venus,Jupiter,Mars,Mercury,C,Mars appears red due to iron oxide (rust) on its surface giving it the name Red Planet.,General Awareness
+Bhakra Nangal Dam is on which river?,Sutlej,Beas,Ravi,Chenab,A,Bhakra Nangal Dam is on the Sutlej River in the border of Punjab and Himachal Pradesh.,General Awareness
+Who was the first Mughal Emperor?,Akbar,Humayun,Babur,Shah Jahan,C,Babur founded the Mughal Empire in 1526 after winning the First Battle of Panipat.,General Awareness
+Montreal Protocol is related to?,Climate change mitigation,Ocean pollution,Protection of ozone layer,Biodiversity conservation,C,Montreal Protocol (1987) is an international treaty to phase out ozone-depleting substances.,General Awareness
+Odissi dance form is associated with which deity?,Lord Krishna,Lord Jagannath,Goddess Durga,Lord Shiva,B,Odissi is a classical dance from Odisha traditionally performed in temples dedicated to Lord Jagannath.,General Awareness
+Who invented the telephone?,Nikola Tesla,Thomas Edison,Guglielmo Marconi,Alexander Graham Bell,D,Alexander Graham Bell patented the telephone in 1876.,General Awareness
+The Thar Desert is primarily in which Indian state?,Punjab,Gujarat,Rajasthan,Haryana,C,The Thar Desert (Great Indian Desert) is primarily located in Rajasthan covering about 77% of the desert area.,General Awareness
+G20 Summit 2023 was held in which Indian city?,Bangalore,Mumbai,New Delhi,Chennai,C,The G20 Leaders Summit 2023 was held in New Delhi on September 9-10 2023.,General Awareness
+Hirakud Dam is on which river?,Godavari,Krishna,Cauvery,Mahanadi,D,Hirakud Dam is on the Mahanadi River in Odisha and is one of the longest dams in the world.,General Awareness
+The Sangam literature belongs to which language?,Sanskrit,Prakrit,Pali,Tamil,D,Sangam literature is classical Tamil literature composed between 300 BCE and 300 CE.,General Awareness
+If cos theta = 12/13 then tan theta?,12/5,5/12,5/13,13/5,B,sin theta = 5/13 (from 5-12-13 triangle). tan = sin/cos = (5/13)/(12/13) = 5/12.,Quantitative Aptitude
+Curved surface area of a cone with radius 7 cm and slant height 14 cm (pi=22/7)?,616 sq cm,308 sq cm,154 sq cm,462 sq cm,B,CSA = pi*r*l = (22/7)*7*14 = 308 sq cm.,Quantitative Aptitude
+What is the remainder when 17^23 is divided by 16?,15,0,1,2,C,17 mod 16 = 1. So 17^23 mod 16 = 1^23 = 1.,Quantitative Aptitude
+Simplify: 0.75 * 0.75 + 2 * 0.75 * 0.25 + 0.25 * 0.25,1,1.5,0.5,0.75,A,This is (a+b)^2 where a=0.75 and b=0.25. (0.75+0.25)^2 = 1.,Quantitative Aptitude
+In a mixture of 60L the ratio of milk to water is 2:1. How much milk to add for ratio 3:1?,30 litres,20 litres,10 litres,15 litres,B,Milk=40 Water=20. For 3:1: (40+x)/20=3. 40+x=60. x=20.,Quantitative Aptitude
+A can do work in 12 days. B in 16 days. If both work together how many days to finish?,48/7 days,8 days,9 days,7 days,A,Together rate=1/12+1/16=4/48+3/48=7/48. Days=48/7 approximately 6.86 days.,Quantitative Aptitude
+Speed of boat in still water is 10 km/h. Speed of stream is 2 km/h. Time to go 48 km upstream?,8 hours,4 hours,5 hours,6 hours,D,Upstream speed = 10-2 = 8 km/h. Time = 48/8 = 6 hours.,Quantitative Aptitude
+The product of two numbers is 192 and their ratio is 4:3. Find the larger number.,18,12,14,16,D,Let numbers be 4x and 3x. 4x*3x=192. 12x^2=192. x^2=16. x=4. Larger=4*4=16.,Quantitative Aptitude
+If selling price is Rs 450 and loss is 10% then cost price is?,Rs 495,Rs 480,Rs 510,Rs 500,D,SP = CP*(1-loss%). 450=CP*0.9. CP=450/0.9=500.,Quantitative Aptitude
+Find the value of (256)^(3/4)?,32,64,16,128,B,256=4^4. (4^4)^(3/4)=4^3=64.,Quantitative Aptitude
+A shopkeeper marks goods 40% above CP and gives 20% discount. Profit%?,12%,15%,20%,10%,A,Let CP=100. MP=140. SP=140*0.8=112. Profit=12%.,Quantitative Aptitude
+If the perimeter of a square is 48 cm then its diagonal is?,12 cm,12*sqrt(2) cm,24 cm,6*sqrt(2) cm,B,Side=48/4=12. Diagonal=12*sqrt(2) cm.,Quantitative Aptitude
+The ratio of ages of A and B is 3:5. After 6 years ratio becomes 2:3. Present age of A?,18 years,24 years,15 years,12 years,A,3x+6 : 5x+6 = 2:3. 3(3x+6)=2(5x+6). 9x+18=10x+12. x=6. A=18 years.,Quantitative Aptitude
+A train 200m long crosses a bridge 300m long in 25 seconds. Speed of train?,72 km/h,54 km/h,60 km/h,80 km/h,A,Total distance=200+300=500m. Speed=500/25=20 m/s=72 km/h.,Quantitative Aptitude
+The value of (5/4)^(-3) is?,125/64,4/5,5/4,64/125,D,(5/4)^(-3) = (4/5)^3 = 64/125.,Quantitative Aptitude
+Two numbers are in ratio 3:4. Their LCM is 60. Find HCF.,4,12,15,5,D,Let numbers be 3x and 4x. LCM of 3x and 4x = 12x (since 3 and 4 are coprime). 12x=60. x=5. HCF=x=5.,Quantitative Aptitude
+In how many years will Rs 8000 amount to Rs 9261 at 5% CI?,5 years,4 years,2 years,3 years,D,9261/8000=(1.05)^n. 9261/8000=1.157625=(1.05)^3. So n=3.,Quantitative Aptitude
+The circumference of a circle is 44 cm. Its area is (pi=22/7)?,88 sq cm,132 sq cm,176 sq cm,154 sq cm,D,2*pi*r=44. r=44*7/(2*22)=7 cm. Area=pi*r^2=(22/7)*49=154 sq cm.,Quantitative Aptitude
+Simplify: sqrt(50) + sqrt(18) - sqrt(8)?,5*sqrt(2),7*sqrt(2),6*sqrt(2),4*sqrt(2),C,sqrt(50)=5*sqrt(2). sqrt(18)=3*sqrt(2). sqrt(8)=2*sqrt(2). 5+3-2=6. Answer=6*sqrt(2).,Quantitative Aptitude
+If 40% of a number is 80 then what is 75% of that number?,160,150,120,140,B,0.4*N=80. N=200. 75% of 200=150.,Quantitative Aptitude
+The median of 3 7 2 9 5 is?,5,7,3,9,A,Arrange: 2 3 5 7 9. Middle value (median) = 5.,Quantitative Aptitude
+A chord of length 10 cm is at distance 12 cm from center. Radius of circle?,14 cm,13 cm,12 cm,15 cm,B,Half chord=5. Radius=sqrt(12^2+5^2)=sqrt(144+25)=sqrt(169)=13 cm.,Quantitative Aptitude
+What is the value of (a+b)^2 - (a-b)^2?,2(a^2+b^2),2ab,4ab,a^2-b^2,C,(a+b)^2-(a-b)^2 = (a^2+2ab+b^2)-(a^2-2ab+b^2) = 4ab.,Quantitative Aptitude
+A man spends 75% of income and saves Rs 200 per month. His income is?,Rs 1000,Rs 800,Rs 750,Rs 600,B,Saves 25% = Rs 200. Income = 200/0.25 = Rs 800.,Quantitative Aptitude
+The area of an equilateral triangle with side 6 cm is?,6*sqrt(3) sq cm,12*sqrt(3) sq cm,18*sqrt(3) sq cm,9*sqrt(3) sq cm,D,Area=(sqrt(3)/4)*side^2=(sqrt(3)/4)*36=9*sqrt(3) sq cm.,Quantitative Aptitude
+Choose the correctly spelled word:,Entrepeneurship,Entrepreneurship,Enterpreneurship,Entreprenureship,B,Entrepreneurship is the correct spelling.,English Comprehension
+Meaning of idiom: To hit below the belt?,To physically hit someone,To be accurate,To miss a target,To act unfairly,D,Hit below the belt means to act in an unfair or unsportsmanlike manner.,English Comprehension
+One word substitution: A speech made without preparation?,Epilogue,Prologue,Monologue,Extempore,D,Extempore means a speech delivered without prior preparation.,English Comprehension
+Change narration: The teacher said The earth revolves around the sun.,The teacher said the earth is revolving,The teacher said that the earth revolved around the sun,The teacher told the earth revolves around the sun,The teacher said that the earth revolves around the sun,D,Universal truths remain in present tense even in indirect speech.,English Comprehension
+Change voice: Someone has stolen my watch.,My watch had been stolen,My watch is stolen,My watch was being stolen,My watch has been stolen,D,Present perfect active to passive: has been + past participle. By someone is omitted.,English Comprehension
+Fill blank: He has been absent ___ Monday.,for,on,since,from,C,Since is used with a specific day or point in time. For is used with duration.,English Comprehension
+Synonym of TENACIOUS?,Fragile,Weak,Timid,Persistent,D,Tenacious means holding firmly or persistent. Persistent is its synonym.,English Comprehension
+Antonym of TRANSPARENT?,Visible,Obvious,Clear,Opaque,D,Transparent means see-through. Opaque means not allowing light to pass through.,English Comprehension
+Spot the error: The furnitures in this room (A)/ are very expensive (B)/ and need careful handling (C)/ No error (D),D,B,C,A - furnitures should be furniture,D,Furniture is an uncountable noun. It does not take plural form. Correct: The furniture.,English Comprehension
+Meaning of: To be in hot water?,To take a hot bath,To be in a hurry,To be angry,To be in trouble,D,To be in hot water means to be in trouble or facing difficulties.,English Comprehension
+One word: A person who loves mankind?,Theist,Philanthropist,Misanthropist,Philosopher,B,A philanthropist is one who loves and helps mankind through charitable acts.,English Comprehension
+Choose correct preposition: I congratulated him ___ his success.,on,with,for,at,A,Congratulate someone on something is the correct collocation.,English Comprehension
+Rearrange: the/beautiful/is/scenery/very/here,The scenery here is very beautiful,Beautiful the scenery is very here,Very beautiful is the scenery here,Here is the very beautiful scenery,A,Correct order: The scenery here is very beautiful.,English Comprehension
+One word for: One who walks in sleep?,Fatalist,Somnambulist,Insomniac,Egoist,B,Somnambulist means a person who walks in their sleep.,English Comprehension
+Choose correct form: The news ___ very disturbing.,is,are,have been,were,A,News is an uncountable noun and takes singular verb is.,English Comprehension
+Identify the type of sentence: What a beautiful painting!,Declarative,Imperative,Exclamatory,Interrogative,C,Sentences expressing strong emotion with exclamation mark are exclamatory.,English Comprehension
+Change to passive: Please help me.,I am helped by you,I was helped,You are requested to help me,Help is done by me,C,Polite requests in passive: You are requested to + base verb.,English Comprehension
+Fill blank: He is senior ___ me by two years.,than,of,to,from,C,Senior to is the correct usage. Senior/junior/prefer take to not than.,English Comprehension
+Choose correctly spelled word:,Bureaucracy,Buerocracy,Beaurocracy,Burocracy,A,Bureaucracy is the correct spelling meaning system of government by officials.,English Comprehension
+Meaning of: A bolt from the blue?,A sudden unexpected event,A weapon,A lightning strike,A blue colored bolt,A,A bolt from the blue means a sudden and completely unexpected event.,English Comprehension
+Change to indirect: He said Let us go for a walk.,He suggested that they should go for a walk,He told to go for a walk,He said that let us go for a walk,He asked for a walk,A,Let us in indirect becomes suggested that they should.,English Comprehension
+Choose the word closest to LUCID.,Clear,Dark,Complex,Confused,A,Lucid means expressed clearly or easy to understand. Clear is its synonym.,English Comprehension
+Select grammatically correct sentence:,Neither of the students was absent,Neither of the student was absent,Neither of the students were absent,Neither of students was absent,A,Neither of + plural noun + singular verb. Was is correct.,English Comprehension
+Choose correct usage: Each boy and each girl ___ given a prize.,have,was,has,were,B,When each precedes compound subjects joined by and the verb is singular.,English Comprehension
+Meaning of: To turn over a new leaf?,To begin afresh with changed behavior,To change pages,To read a book,To plant a tree,A,Turn over a new leaf means to make a fresh start by changing behavior for the better.,English Comprehension
