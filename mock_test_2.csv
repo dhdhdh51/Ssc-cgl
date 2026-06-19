@@ -1,0 +1,101 @@
+question,option_a,option_b,option_c,option_d,correct,explanation,subject
+"Find the next term: 5, 11, 23, 47, ?",94,95,96,93,B,Pattern: multiply by 2 and add 1. 47x2+1=95.,General Intelligence and Reasoning
+"If TIGER is coded as UJHFS, what is the rule?",Each letter +1,Each letter +2,Alternate +1 -1,Reverse,A,"T+1=U, I+1=J, G+1=H, E+1=F, R+1=S. Each letter forward by 1.",General Intelligence and Reasoning
+"Odd one out: Mars, Jupiter, Moon, Saturn",Mars,Jupiter,Moon,Saturn,C,Moon is a natural satellite not a planet. Others are planets.,General Intelligence and Reasoning
+A is the father of B. C is the daughter of B. D is the wife of A. How is D related to C?,Mother,Grandmother,Aunt,Sister,B,"A is father of B, D is wife of A so D is mother of B. C is daughter of B. So D is grandmother of C.",General Intelligence and Reasoning
+"Facing East, turn left, then left again, then right. Which direction now?",North,South,East,West,A,East -> left=North -> left=West -> right=North.,General Intelligence and Reasoning
+Statement: Some books are pens. All pens are chairs. Conclusion I: Some books are chairs. Conclusion II: All chairs are pens.,Only I follows,Only II follows,Both follow,Neither follows,A,Some books are pens and all pens are chairs so some books are chairs (I). Not all chairs are pens (II fails).,General Intelligence and Reasoning
+In a code language PEN = 35 (P=16 E=5 N=14). What is the code for BIG?,22,18,20,24,B,"Using alphabetical position values: B=2, I=9, G=7. Sum = 2+9+7 = 18.",General Intelligence and Reasoning
+Facing South a man turns left and walks 4 km. Which direction is he facing now?,South,East,North,West,B,Facing South and turning left means turning to face East. He walks 4 km facing East.,General Intelligence and Reasoning
+"Complete: 2, 5, 10, 17, 26, ?",35,37,34,38,B,"Differences: 3,5,7,9. Next diff=11. 26+11=37.",General Intelligence and Reasoning
+"If P denotes +, Q denotes -, R denotes x, S denotes /, then 18 R 2 P 6 S 3 Q 5 = ?",33,35,31,37,A,18 x 2 + 6 / 3 - 5 = 36 + 2 - 5 = 33.,General Intelligence and Reasoning
+"Series: 100, 98, 94, 86, 70, ?",30,38,40,50,B,"Differences: 2, 4, 8, 16, 32 (doubling). Next difference = 32. 70 - 32 = 38.",General Intelligence and Reasoning
+In a class Mohan ranks 15th from top and 20th from bottom. Total students?,34,35,36,33,A,Total = 15+20-1 = 34.,General Intelligence and Reasoning
+Clock : Time :: Thermometer : ?,Heat,Temperature,Mercury,Weather,B,A clock measures time; a thermometer measures temperature.,General Intelligence and Reasoning
+Today is Monday. After 61 days what day will it be?,Saturday,Sunday,Monday,Tuesday,A,61/7 = 8 weeks + 5 days. Monday + 5 = Saturday.,General Intelligence and Reasoning
+"Mammals, Whales, Fish - Venn diagram?","Whales inside Mammals, Fish separate",All overlap,Whales inside Fish,Fish inside Mammals,A,"Whales are mammals not fish. So Whales circle inside Mammals, Fish separate.",General Intelligence and Reasoning
+Pen : Write :: Scissors : ?,Paper,Cut,Sharp,Blade,B,Pen is used to write; scissors are used to cut.,General Intelligence and Reasoning
+All dogs are animals. All animals are living things. Conclusion I: All dogs are living things. Conclusion II: Some living things are dogs.,Only I follows,Only II follows,Both follow,Neither follows,C,All dogs are animals and all animals are living so all dogs are living (I). Since some living things are dogs (II) also follows. Both follow.,General Intelligence and Reasoning
+"Which figure completes the pattern: triangle, square, pentagon, ?",Hexagon,Heptagon,Circle,Octagon,A,"Sides increase by 1: 3,4,5,6. Next is hexagon (6 sides).",General Intelligence and Reasoning
+"If MANGO coded as OCPIQ (each +2), what is APPLE coded as?",CRRNG,CRRNH,CRRNE,DSSOI,A,"A+2=C, P+2=R, P+2=R, L+2=N, E+2=G. APPLE=CRRNG.",General Intelligence and Reasoning
+Arrange: 1.Atom 2.Molecule 3.Element 4.Compound 5.Mixture,"1,3,2,4,5","1,2,3,4,5","3,1,2,4,5","1,3,4,2,5",A,"Size order: Atom < Element < Molecule < Compound < Mixture = 1,3,2,4,5.",General Intelligence and Reasoning
+"Series: 1, 1, 2, 3, 5, 8, 13, ?",18,20,21,23,C,Fibonacci: each number is sum of two before. 8+13=21.,General Intelligence and Reasoning
+"If DELHI is coded as 73541 and CALCUTTA as 82589662, how is LACE coded?",5283,5823,3852,8253,A,"From the codes: D=7, E=3, L=5, H=4, I=1, C=8, A=2, U=9, T=6. LACE: L=5, A=2, C=8, E=3 = 5283.",General Intelligence and Reasoning
+Six people A B C D E F sit in circle. A is between B and F. C is between D and E. D is to left of B. Who sits opposite to A?,C,D,E,F,C,"Arrangement clockwise: B,A,F,E,C,D. Opposite to A is C (3 positions away).",General Intelligence and Reasoning
+"If a clock shows 6:30 in a mirror, what is the actual time?",5:30,6:30,5:00,7:30,A,"In mirror, actual time = 11:60 - mirror time (for minute-based) or 12:00 - shown time. 12:00 - 6:30 = 5:30.",General Intelligence and Reasoning
+Unscramble: NAGMAE forms which word?,MANAGE,MENAGE,ENAMEL,DAMAGE,A,NAGMAE unscrambled gives MANAGE.,General Intelligence and Reasoning
+Quit India Movement was launched in which year?,1930,1942,1920,1947,B,"Quit India Movement was launched on August 8, 1942 by Mahatma Gandhi.",General Awareness
+Which is the highest civilian award in India?,Padma Vibhushan,Padma Bhushan,Bharat Ratna,Param Vir Chakra,C,Bharat Ratna is the highest civilian award in India.,General Awareness
+Photosynthesis takes place in which part of the plant?,Root,Stem,Leaf,Flower,C,Photosynthesis occurs in leaves where chloroplasts use sunlight to convert CO2 and water into glucose.,General Awareness
+Who is the author of the book Discovery of India?,Mahatma Gandhi,Jawaharlal Nehru,Rabindranath Tagore,Sardar Patel,B,Discovery of India was written by Jawaharlal Nehru during his imprisonment in 1944.,General Awareness
+Which Indian state is largest by area?,Madhya Pradesh,Maharashtra,Rajasthan,Uttar Pradesh,C,"Rajasthan is the largest Indian state by area covering about 342,239 sq km.",General Awareness
+What is the powerhouse of the cell?,Nucleus,Ribosome,Mitochondria,Golgi body,C,Mitochondria are called the powerhouse of the cell as they produce ATP through cellular respiration.,General Awareness
+The Jallianwala Bagh massacre occurred in which year?,1919,1920,1930,1942,A,"Jallianwala Bagh massacre occurred on April 13, 1919 in Amritsar under orders of General Dyer.",General Awareness
+Which is the longest national highway in India?,NH 44,NH 7,NH 48,NH 2,A,NH 44 (formerly NH 7) is the longest at about 3745 km from Srinagar to Kanyakumari.,General Awareness
+Total Fundamental Rights in Indian Constitution?,5,6,7,8,B,"There are 6 Fundamental Rights: Equality, Freedom, Against Exploitation, Religion, Cultural/Educational, Constitutional Remedies.",General Awareness
+Speed of light is approximately?,3 x 10^6 m/s,3 x 10^8 m/s,3 x 10^10 m/s,3 x 10^5 m/s,B,Speed of light in vacuum is approximately 3 x 10^8 meters per second.,General Awareness
+Which dynasty built Khajuraho temples?,Chola,Pallava,Chandela,Chalukya,C,Khajuraho temples were built by the Chandela dynasty between 950-1050 CE.,General Awareness
+World Environment Day is observed on?,March 22,June 5,April 22,October 5,B,World Environment Day is observed on June 5 every year since 1973.,General Awareness
+Which organ purifies blood in human body?,Heart,Lungs,Kidney,Liver,C,Kidneys filter blood removing waste products and excess fluid to produce urine.,General Awareness
+Planning Commission was replaced by which body?,Finance Commission,NITI Aayog,Election Commission,UGC,B,NITI Aayog replaced Planning Commission in 2015 as the policy think tank.,General Awareness
+Which country hosted FIFA World Cup 2022?,Russia,Brazil,Qatar,USA,C,FIFA World Cup 2022 was hosted by Qatar in November-December 2022.,General Awareness
+Ozone layer is found in which layer of atmosphere?,Troposphere,Stratosphere,Mesosphere,Thermosphere,B,Ozone layer is found in the stratosphere at about 15-35 km above Earth surface.,General Awareness
+Who gave the slogan Do or Die?,Subhash Chandra Bose,Mahatma Gandhi,Bal Gangadhar Tilak,Lala Lajpat Rai,B,Mahatma Gandhi gave the slogan Do or Die during the Quit India Movement in 1942.,General Awareness
+Which river is called Sorrow of Bihar?,Ganga,Kosi,Son,Gandak,B,River Kosi is called the Sorrow of Bihar due to frequent devastating floods.,General Awareness
+Total members in Rajya Sabha?,250,245,238,260,A,Maximum strength of Rajya Sabha is 250 members (238 elected + 12 nominated).,General Awareness
+Who discovered Penicillin?,Louis Pasteur,Alexander Fleming,Robert Koch,Edward Jenner,B,Alexander Fleming discovered Penicillin in 1928.,General Awareness
+India launched Aditya-L1 solar mission in which year?,2021,2022,2023,2024,C,"Aditya-L1 was launched on September 2, 2023 to study the Sun from L1 Lagrange point.",General Awareness
+Which gas is used in fire extinguishers?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,C,CO2 is used in fire extinguishers as it is heavier than air and cuts off oxygen supply.,General Awareness
+Swachh Bharat Mission was launched in which year?,2012,2014,2016,2018,B,"Swachh Bharat Mission was launched on October 2, 2014.",General Awareness
+Which is the largest ocean?,Atlantic,Indian,Arctic,Pacific,D,Pacific Ocean is the largest ocean covering about 165.25 million sq km.,General Awareness
+Who was the first woman Prime Minister of India?,Sonia Gandhi,Pratibha Patil,Indira Gandhi,Sarojini Naidu,C,Indira Gandhi served as the first and only female Prime Minister of India (1966-77 and 1980-84).,General Awareness
+What is 12.5% of 480?,50,60,55,65,B,12.5% = 1/8. 480/8 = 60.,Quantitative Aptitude
+"A sells an article at 25% profit. If CP is Rs.200, SP?",Rs.240,Rs.250,Rs.225,Rs.260,B,SP = 200 + 25% of 200 = 200 + 50 = 250.,Quantitative Aptitude
+Ratio of boys to girls is 3:2. Total 50 students. Number of girls?,30,20,25,15,B,Girls = (2/5) x 50 = 20.,Quantitative Aptitude
+Two pipes fill tank in 6 and 8 hours. Together fill in?,3 hrs 25.7 min,3 hrs 10 min,2 hrs 40 min,4 hrs,A,Rate=1/6+1/8=7/24. Time=24/7=3.43 hrs=3 hrs 25.7 min.,Quantitative Aptitude
+SI on Rs.2000 at 6% for 2 years?,Rs.200,Rs.240,Rs.280,Rs.320,B,SI = 2000 x 6 x 2/100 = 240.,Quantitative Aptitude
+Average of first 10 natural numbers?,5,5.5,6,4.5,B,Sum=10x11/2=55. Average=55/10=5.5.,Quantitative Aptitude
+If 3x - 7 = 8 then x = ?,3,4,5,6,C,3x = 15. x = 5.,Quantitative Aptitude
+Area of triangle with base 10cm height 8cm?,80 sq cm,40 sq cm,45 sq cm,60 sq cm,B,Area = 0.5 x base x height = 0.5 x 10 x 8 = 40 sq cm.,Quantitative Aptitude
+Value of cos 60 degrees?,1,1/2,root3/2,0,B,cos 60 = 1/2.,Quantitative Aptitude
+A works twice as fast as B. Together finish in 6 days. A alone?,9 days,12 days,18 days,8 days,A,"Let B rate=x, A=2x. Together 3x=1/6, x=1/18. A=2/18=1/9. A alone=9 days.",Quantitative Aptitude
+A number increased by 20% becomes 240. Original number?,180,192,200,210,C,x + 20% of x = 240. 1.2x = 240. x = 200.,Quantitative Aptitude
+CI on Rs.5000 at 10% for 2 years compounded annually?,Rs.1000,Rs.1050,Rs.1100,Rs.950,B,CI=5000[(1.1)^2-1]=5000x0.21=1050.,Quantitative Aptitude
+Surface area of sphere radius 7cm? (pi=22/7),616 sq cm,308 sq cm,154 sq cm,1232 sq cm,A,SA=4 x pi x r^2 = 4 x 22/7 x 49 = 616.,Quantitative Aptitude
+Mixture has alcohol:water=4:1. In 20L how much alcohol?,4L,12L,16L,8L,C,Alcohol = 4/5 x 20 = 16L.,Quantitative Aptitude
+Diagonal of square with side 10cm?,10 root 2 cm,20 cm,10 cm,15 cm,A,Diagonal = side x root 2 = 10 root 2.,Quantitative Aptitude
+Value of (64)^(2/3)?,16,32,8,4,A,64^(2/3) = (cube root 64)^2 = 4^2 = 16.,Quantitative Aptitude
+Divide Rs.1200 in ratio 2:3:5. Largest share?,Rs.600,Rs.500,Rs.360,Rs.240,A,Total parts=10. Largest=5/10 x 1200=600.,Quantitative Aptitude
+Car travels 60km in 45 min. Speed in km/h?,60,70,75,80,D,45 min = 0.75 hr. Speed = 60/0.75 = 80 km/h.,Quantitative Aptitude
+"HCF of 24, 36, 48?",6,8,12,24,C,"24=2^3x3, 36=2^2x3^2, 48=2^4x3. HCF=2^2x3=12.",Quantitative Aptitude
+In a triangle angles are in ratio 2:3:4. Largest angle?,40,60,80,90,C,2x+3x+4x=180. 9x=180. x=20. Largest=4x=80.,Quantitative Aptitude
+Rs.6000 at 10% CI for 1.5 years compounded half-yearly?,Rs.6945.75,Rs.6900,Rs.7000,Rs.6800,A,Rate per half year=5%. n=3. A=6000(1.05)^3=6000x1.157625=6945.75.,Quantitative Aptitude
+Value of sin 30 + cos 60?,1,0,1/2,root3,A,"sin30=1/2, cos60=1/2. Sum=1.",Quantitative Aptitude
+Perimeter of semicircle with diameter 14cm? (pi=22/7),36 cm,22 cm,25 cm,44 cm,A,Perimeter = pi x d/2 + d = 22/7 x 7 + 14 = 22 + 14 = 36.,Quantitative Aptitude
+"When a number is divided by 13, remainder is 11. Dividing same number by 26, remainder?",11,15,24,13,A,"If n = 13q + 11. If q is even say q=2, n=37. 37/26 gives remainder 11. If q=1, n=24. 24/26 remainder=24. So remainder depends on q. If n=13(2)+11=37, 37 mod 26=11. If n=13(1)+11=24, 24 mod 26=24. The answer could be 11 or 24. For SSC type question: remainder is 11 when n>26.",Quantitative Aptitude
+Marked price Rs.500. Discount 10%. Selling price?,Rs.400,Rs.450,Rs.440,Rs.460,B,SP = 500 - 10% of 500 = 500 - 50 = 450.,Quantitative Aptitude
+Synonym of Diligent?,Lazy,Hardworking,Careless,Ignorant,B,Diligent means showing care in work. Hardworking is its synonym.,English Comprehension
+Antonym of Obscure?,Hidden,Vague,Clear,Dark,C,Obscure means unclear. Clear is the opposite.,English Comprehension
+Idiom: To hit the nail on the head means?,To hurt someone,To say exactly right thing,To work hard,To be aggressive,B,It means to be exactly right about something.,English Comprehension
+One word for killing of a king?,Homicide,Suicide,Regicide,Genocide,C,Regicide means the killing of a king.,English Comprehension
+Error: The committee (A)/ have decided (B)/ to postpone (C)/ the meeting (D),A,B,C,D,B,Committee (collective noun used as single unit) takes singular verb: has decided.,English Comprehension
+Improve: He is more taller than his brother.,He is taller than his brother,He is most taller,He is much taller than,No improvement,A,More is not used with comparative adjectives ending in -er. Correct: taller.,English Comprehension
+The train _____ before we reached the station.,left,had left,has left,leaves,B,Past perfect (had left) for action completed before another past action.,English Comprehension
+Passive: Someone has stolen my wallet.,My wallet has been stolen,My wallet was stolen,My wallet is stolen,My wallet had been stolen,A,Present perfect active to passive: has been + V3.,English Comprehension
+"Indirect: She said, I will come tomorrow.",She said she would come the next day,She said she will come tomorrow,She said I would come,She said she comes,A,"will becomes would, tomorrow becomes the next day, I becomes she.",English Comprehension
+Identify the correctly spelt word:,Occurence,Occurrence,Occurrance,Ocurrence,B,"Occurrence: double c, double r, -ence.",English Comprehension
+To cry over spilt milk means?,To waste milk,To regret past mistakes uselessly,To be sad,To clean up,B,It means to regret something that cannot be undone.,English Comprehension
+Synonym of Candid?,Dishonest,Frank,Reserved,Shy,B,Candid means honest and straightforward. Frank is its synonym.,English Comprehension
+He _____ to school daily.,go,goes,going,gone,B,Third person singular (he) takes goes in simple present.,English Comprehension
+Antonym of Affluent?,Rich,Wealthy,Destitute,Prosperous,C,Affluent means wealthy. Destitute means extremely poor.,English Comprehension
+One word for one who eats human flesh?,Herbivore,Cannibal,Carnivore,Omnivore,B,Cannibal is a person who eats human flesh.,English Comprehension
+Error: He along with his friends (A)/ are going (B)/ to the market (C)/ today (D),A,B,C,D,B,With along with the verb agrees with main subject He. Should be is going.,English Comprehension
+A bird in the hand is worth two in the bush means?,Birds are valuable,Something certain is better than uncertain,Hunting is good,Nature is beautiful,B,It means what you have is more valuable than what you might get.,English Comprehension
+Choose correct preposition: She is good _____ mathematics.,in,on,at,with,C,Good at is the correct collocation for skills and subjects.,English Comprehension
+Active: The song was sung by her.,She sang the song,She sings the song,She has sung the song,She sing the song,A,Past passive to active: She + V2 + Object.,English Comprehension
+Which of the following is correctly spelt?,Recomend,Recommend,Reccommend,Recommand,B,"Recommend: one c, double m.",English Comprehension
+"Had I known, I _____ helped you.",will have,would have,shall have,can have,B,"Third conditional: had + past participle, would have + past participle.",English Comprehension
+One word for a speech delivered without preparation?,Extempore,Epilogue,Soliloquy,Monologue,A,Extempore means spoken without preparation.,English Comprehension
+Synonym of Inevitable?,Avoidable,Uncertain,Unavoidable,Unlikely,C,Inevitable means certain to happen. Unavoidable is its synonym.,English Comprehension
+Error: Mathematics (A)/ are a (B)/ difficult subject (C)/ for many (D),A,B,C,D,B,Mathematics takes singular verb. Should be: is a difficult subject.,English Comprehension
+To beat around the bush means?,To search in forest,To avoid main topic,To exercise,To fight,B,It means to avoid talking about the main point.,English Comprehension

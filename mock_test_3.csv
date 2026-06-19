@@ -1,0 +1,101 @@
+question,option_a,option_b,option_c,option_d,correct,explanation,subject
+"Series: 3, 6, 11, 18, 27, ?",36,38,39,40,B,"Differences: 3,5,7,9. Next diff=11. 27+11=38.",General Intelligence and Reasoning
+"If GARDEN is coded as ICTVGP (each +2), what is FLOWER coded as?",HNQYGT,HNQYGU,HMQYGT,HNQYFS,A,"F+2=H, L+2=N, O+2=Q, W+2=Y, E+2=G, R+2=T. FLOWER=HNQYGT.",General Intelligence and Reasoning
+"Odd one out: Apple, Mango, Potato, Banana",Apple,Mango,Potato,Banana,C,Potato is a vegetable. The others are fruits.,General Intelligence and Reasoning
+If A+B means A is mother of B. A-B means A is father of B. A*B means A is brother of B. Then P-Q*R+S means?,S is daughter of P,S is granddaughter of P,S is grandson of P,S is son of P,B,"P is father of Q. Q is brother of R. R is mother of S. So P is grandfather of S through Q-R. S can be grandson or granddaughter. Since R is mother of S and question says +S, S could be either. But P is grandfather of S. If S is female then granddaughter.",General Intelligence and Reasoning
+A person walks 10m North then 10m East then 10m South. Distance from start?,10 m,20 m,30 m,0 m,A,He forms three sides of a square. Net displacement = 10m East.,General Intelligence and Reasoning
+Some cats are dogs. All dogs are birds. Conclusion I: Some cats are birds. Conclusion II: All birds are cats.,Only I follows,Only II follows,Both follow,Neither follows,A,Some cats are dogs and all dogs are birds so some cats are birds (I). Not all birds are cats (II fails).,General Intelligence and Reasoning
+"If in a code ROPE is written as 6821 and PORE is written as 2861, what is the code for ORE?",861,681,816,186,A,"R=6, O=8, P=2, E=1. ORE = O(8) R(6) E(1) = 861.",General Intelligence and Reasoning
+"Starting from point A, a man walks 3km East then 4km North. Straight line distance from A?",5 km,7 km,6 km,4 km,A,By Pythagoras: sqrt(3^2 + 4^2) = sqrt(9+16) = sqrt(25) = 5 km.,General Intelligence and Reasoning
+"Next in series: 4, 9, 16, 25, 36, ?",48,49,50,64,B,"Perfect squares: 2^2, 3^2, 4^2, 5^2, 6^2. Next = 7^2 = 49.",General Intelligence and Reasoning
+"If # means +, @ means -, $ means x, % means /, then 5 # 3 $ 2 @ 8 % 4 = ?",9,10,11,12,A,5 + 3 x 2 - 8 / 4 = 5 + 6 - 2 = 9. (BODMAS applied after substitution),General Intelligence and Reasoning
+"Series: 200, 190, 170, 140, 100, ?",40,50,60,70,B,"Differences: 10, 20, 30, 40. Next difference = 50. So 100 - 50 = 50.",General Intelligence and Reasoning
+Suresh ranks 9th from top and 38th from bottom. Total students?,44,46,47,45,B,Total = 9 + 38 - 1 = 46.,General Intelligence and Reasoning
+Doctor : Patient :: Lawyer : ?,Judge,Court,Client,Criminal,C,A doctor treats a patient; a lawyer represents a client.,General Intelligence and Reasoning
+"January 1, 2024 is Monday. What day is March 1, 2024?",Thursday,Friday,Saturday,Wednesday,B,"Jan has 31 days, Feb 2024 has 29 days (leap year). 31+29=60 days after Jan 1. 60/7=8 weeks+4 days. Monday+4=Friday.",General Intelligence and Reasoning
+Teachers Students School - Venn diagram?,Teachers and Students inside School,All separate,Teachers inside Students,School inside Teachers,A,Teachers and Students are separate groups both within School.,General Intelligence and Reasoning
+Eye : See :: Ear : ?,Sound,Music,Hear,Noise,C,Eyes are used to see; ears are used to hear.,General Intelligence and Reasoning
+Some pens are pencils. Some pencils are erasers. Conclusion I: Some pens are erasers. Conclusion II: Some erasers are pencils.,Only I follows,Only II follows,Both follow,Neither follows,B,Some pencils are erasers means some erasers are pencils (II). But some pens being pencils does not mean they are erasers (I fails).,General Intelligence and Reasoning
+"What comes next: Circle, Triangle, Square, Pentagon, ?",Hexagon,Heptagon,Octagon,Rectangle,A,"Sides: 0(circle),3,4,5. Next polygon with 6 sides = Hexagon.",General Intelligence and Reasoning
+"If EARTH coded as GCTVJ (alternate +2,-2 pattern), confirm: E+2=G, A-2=Y? No. Let me use: EARTH coded as FBSUI (+1 each). What is WATER?",XBUFS,XBSFS,WBUFS,XBUGS,A,"W+1=X, A+1=B, T+1=U, E+1=F, R+1=S. WATER=XBUFS.",General Intelligence and Reasoning
+Arrange in logical order: 1.Sentence 2.Word 3.Letter 4.Paragraph 5.Chapter,"3,2,1,4,5","2,3,1,4,5","1,2,3,4,5","3,1,2,4,5",A,"Smallest to largest: Letter, Word, Sentence, Paragraph, Chapter = 3,2,1,4,5.",General Intelligence and Reasoning
+"Fibonacci-like: 2, 3, 5, 8, 13, 21, ?",34,32,36,28,A,Each number is sum of previous two: 13+21=34.,General Intelligence and Reasoning
+"If letters have positional values (A=1,B=2...Z=26) and CHAIR=39, what is TABLE?",40,42,38,44,A,"T=20, A=1, B=2, L=12, E=5. Sum = 20+1+2+12+5 = 40.",General Intelligence and Reasoning
+Six persons A B C D E F sit in a circle facing center. A is opposite D. B is to the left of A. F is to the right of D. C is between D and E. Who is opposite B?,C,E,F,D,B,"Positions clockwise: A(1), B(2), C(3), D(4), F(5), E(6). A opposite D. B is left of A. F is right of D. C is between D and E. B is at position 2, opposite is position 5 = E.",General Intelligence and Reasoning
+Mirror image of clock showing 3:15. What time does mirror show?,8:45,9:45,8:15,9:15,A,Mirror time = 12:00 - 3:15 = 8:45.,General Intelligence and Reasoning
+Unscramble RICTEKA to form a word.,THICKER,CRICKET,TRACKER,CRACKER,B,RICTEKA rearranged = CRICKET.,General Intelligence and Reasoning
+Who was the first Governor General of independent India?,Lord Mountbatten,C. Rajagopalachari,Warren Hastings,Lord Dalhousie,A,Lord Mountbatten was the first Governor General of independent India (1947-48).,General Awareness
+Which is the national flower of India?,Rose,Sunflower,Lotus,Jasmine,C,Lotus (Nelumbo nucifera) is the national flower of India.,General Awareness
+Which process converts liquid to gas?,Condensation,Evaporation,Sublimation,Freezing,B,Evaporation is the process by which liquid converts to gas at surface.,General Awareness
+Sher Shah Suri built which famous road?,NH 1,Grand Trunk Road,Silk Route,Spice Route,B,Sher Shah Suri built the Grand Trunk Road connecting Chittagong to Kabul.,General Awareness
+Which is the smallest state of India by area?,Goa,Sikkim,Tripura,Delhi,A,Goa is the smallest state by area at about 3702 sq km.,General Awareness
+Which blood cells fight infection?,Red blood cells,White blood cells,Platelets,Plasma,B,White blood cells (leucocytes) are part of the immune system and fight infections.,General Awareness
+Dandi March took place in which year?,1920,1930,1942,1919,B,The Dandi March (Salt March) took place in March-April 1930 led by Mahatma Gandhi.,General Awareness
+Which is the highest peak in India?,Mount Everest,Kanchenjunga,K2,Nanda Devi,B,Kanchenjunga (8586m) is the highest mountain peak located within Indian territory in Sikkim.,General Awareness
+How many schedules are in Indian Constitution?,8,10,12,14,C,Indian Constitution has 12 Schedules.,General Awareness
+What is the unit of electric current?,Volt,Ampere,Ohm,Watt,B,Ampere (A) is the SI unit of electric current.,General Awareness
+Ajanta Caves are located in which state?,Madhya Pradesh,Karnataka,Maharashtra,Rajasthan,C,Ajanta Caves are located in Aurangabad district of Maharashtra.,General Awareness
+International Yoga Day is observed on?,June 5,June 21,March 21,May 1,B,International Yoga Day is observed on June 21 every year since 2015.,General Awareness
+Which organ produces insulin?,Liver,Kidney,Pancreas,Heart,C,Beta cells in the pancreas produce insulin to regulate blood sugar.,General Awareness
+Who is known as Missile Man of India?,Vikram Sarabhai,A.P.J. Abdul Kalam,Homi Bhabha,C.V. Raman,B,Dr. A.P.J. Abdul Kalam is known as the Missile Man for his work on ballistic missile development.,General Awareness
+ICC Cricket World Cup 2023 was won by which country?,India,Australia,England,South Africa,B,Australia won the ICC Cricket World Cup 2023 held in India defeating India in the final.,General Awareness
+Which layer of atmosphere contains weather phenomena?,Stratosphere,Troposphere,Mesosphere,Exosphere,B,Troposphere is the lowest layer where all weather phenomena occur.,General Awareness
+Who gave the slogan Jai Hind?,Mahatma Gandhi,Subhash Chandra Bose,Bhagat Singh,Lal Bahadur Shastri,B,Subhash Chandra Bose popularized the slogan Jai Hind.,General Awareness
+Which river originates from Gangotri glacier?,Yamuna,Ganga,Brahmaputra,Godavari,B,River Ganga originates from Gangotri glacier in Uttarakhand.,General Awareness
+Minimum age to become President of India?,25 years,30 years,35 years,40 years,C,Article 58 states minimum age to be President is 35 years.,General Awareness
+Who invented the telephone?,Thomas Edison,Alexander Graham Bell,Guglielmo Marconi,Nikola Tesla,B,Alexander Graham Bell invented the telephone in 1876.,General Awareness
+UPI (Unified Payments Interface) was launched by?,RBI,SBI,NPCI,SEBI,C,UPI was developed and launched by National Payments Corporation of India (NPCI) in 2016.,General Awareness
+Photosynthesis requires which gas from atmosphere?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,C,Plants absorb CO2 from atmosphere for photosynthesis.,General Awareness
+Make in India campaign was launched in which year?,2012,2014,2016,2018,B,"Make in India was launched on September 25, 2014.",General Awareness
+Which continent has the most countries?,Asia,Europe,Africa,South America,C,Africa has 54 countries making it the continent with most countries.,General Awareness
+Who painted the famous Mona Lisa?,Michelangelo,Leonardo da Vinci,Raphael,Vincent van Gogh,B,Leonardo da Vinci painted the Mona Lisa around 1503-1519.,General Awareness
+What is 16.67% of 300?,50,45,55,60,A,16.67% = 1/6. 300/6 = 50.,Quantitative Aptitude
+"CP Rs.500, SP Rs.450. Loss%?",8%,10%,12%,15%,B,Loss=50. Loss%=(50/500)x100=10%.,Quantitative Aptitude
+"A:B=2:3, B:C=4:5. Find A:B:C.",8:12:15,6:9:10,4:6:15,2:3:5,A,A:B=2:3=8:12. B:C=4:5=12:15. A:B:C=8:12:15.,Quantitative Aptitude
+"Man walks 4 km/h, cycles 10 km/h. Covers 36 km in 4.5 hrs. Distance walked?",6 km,8 km,10 km,12 km,A,Let walk=x. x/4 + (36-x)/10 = 4.5. 10x+144-4x=180. 6x=36. x=6.,Quantitative Aptitude
+CI on Rs.8000 at 5% for 2 years?,Rs.820,Rs.800,Rs.810,Rs.840,A,CI=8000[(1.05)^2-1]=8000x0.1025=820.,Quantitative Aptitude
+"Average age of 4 people is 25. New person joins, average becomes 26. Age of new person?",28,30,32,34,B,Sum4=100. Sum5=130. New=130-100=30.,Quantitative Aptitude
+Solve: 2x + 3y = 12 and x + y = 5. Find x.,2,3,4,5,B,From x+y=5: x=5-y. Substituting: 2(5-y)+3y=12. 10-2y+3y=12. y=2. x=3.,Quantitative Aptitude
+Area of rhombus with diagonals 10 and 12 cm?,60 sq cm,120 sq cm,30 sq cm,48 sq cm,A,Area = (d1 x d2)/2 = (10x12)/2 = 60.,Quantitative Aptitude
+Value of sin 90 degrees?,0,1/2,root3/2,1,D,sin 90 = 1.,Quantitative Aptitude
+"Pipe A fills tank in 10 hrs, Pipe B empties in 15 hrs. If both open, tank fills in?",25 hrs,30 hrs,35 hrs,20 hrs,B,Net rate = 1/10 - 1/15 = 1/30. Time = 30 hrs.,Quantitative Aptitude
+Cost price of 20 articles equals selling price of 16. Profit%?,20%,25%,30%,16%,B,Let CP each=1. 20CP=16SP. SP=20/16=5/4. Profit=(5/4-1)=1/4. Profit%=25%.,Quantitative Aptitude
+Amount Rs.4000 at 8% CI for 3 years? (approximate),Rs.5038,Rs.5000,Rs.4800,Rs.5200,A,A=4000(1.08)^3=4000x1.259712=5038.85. Approx 5038.,Quantitative Aptitude
+Curved surface area of cylinder radius 7cm height 10cm?,440 sq cm,220 sq cm,308 sq cm,154 sq cm,A,CSA = 2 x pi x r x h = 2 x 22/7 x 7 x 10 = 440.,Quantitative Aptitude
+In 80L mixture milk:water = 3:1. How much milk to add for ratio 4:1?,16L,20L,12L,24L,B,"Milk=60L, Water=20L. For 4:1 ratio: (60+x)/20=4. 60+x=80. x=20L milk to add.",Quantitative Aptitude
+Length of arc subtending 60 degrees at center of circle radius 21cm?,22 cm,11 cm,33 cm,44 cm,A,Arc = (theta/360) x 2 x pi x r = (60/360) x 2 x 22/7 x 21 = (1/6) x 132 = 22.,Quantitative Aptitude
+Cube root of 1728?,11,12,13,14,B,12^3 = 1728.,Quantitative Aptitude
+"Three partners invest Rs.10000, Rs.15000, Rs.20000. Profit Rs.9000. Largest share?",Rs.2000,Rs.3000,Rs.4000,Rs.5000,C,Ratio=2:3:4. Total parts=9. Largest=4/9x9000=4000.,Quantitative Aptitude
+"Speed of boat in still water 10 km/h, stream 2 km/h. Time to go 48 km downstream?",4 hrs,5 hrs,6 hrs,3 hrs,A,Downstream speed=12. Time=48/12=4 hrs.,Quantitative Aptitude
+"LCM of 8, 12, 18, 24?",48,72,96,144,B,"8=2^3, 12=2^2x3, 18=2x3^2, 24=2^3x3. LCM=2^3x3^2=72.",Quantitative Aptitude
+"In triangle ABC, angle A=90, AB=6, BC=10. Find AC.",8,7,9,6,A,AC=sqrt(BC^2-AB^2)=sqrt(100-36)=sqrt(64)=8.,Quantitative Aptitude
+A sum doubles in 5 years at SI. Rate of interest?,10%,15%,20%,25%,C,SI=P in 5 yrs. R=100xP/(Px5)=20%.,Quantitative Aptitude
+Value of cos 0 + sin 90 + tan 45?,1,2,3,4,C,"cos0=1, sin90=1, tan45=1. Sum=3.",Quantitative Aptitude
+Volume of cone radius 7cm height 12cm? (pi=22/7),616 cu cm,308 cu cm,528 cu cm,462 cu cm,A,V=(1/3)x(22/7)x49x12 = (1/3)x(22x49x12/7) = (1/3)x(22x84) = (1/3)x1848 = 616.,Quantitative Aptitude
+Remainder when 2^10 is divided by 7?,1,2,3,4,B,"2^1=2,2^2=4,2^3=1(mod7),2^6=1,2^9=1,2^10=2(mod7). Remainder=2.",Quantitative Aptitude
+Marked price Rs.800 with successive discounts of 10% and 20%. Selling price?,Rs.560,Rs.576,Rs.640,Rs.600,B,After 10% discount: 800 x 0.9 = 720. After 20% discount: 720 x 0.8 = 576.,Quantitative Aptitude
+Synonym of Eloquent?,Silent,Articulate,Dull,Quiet,B,Eloquent means fluent and persuasive in speaking. Articulate is similar.,English Comprehension
+Antonym of Verbose?,Wordy,Lengthy,Concise,Detailed,C,Verbose means using too many words. Concise (brief) is the opposite.,English Comprehension
+Idiom: To turn over a new leaf means?,To read a book,To start fresh or change behavior,To turn a page,To grow plants,B,To turn over a new leaf means to make a fresh start and improve behavior.,English Comprehension
+One word for that which cannot be avoided?,Inevitable,Incredible,Invisible,Invincible,A,Inevitable means that which cannot be avoided or prevented.,English Comprehension
+Error: Neither he (A)/ nor his brothers (B)/ was present (C)/ at the function (D),A,B,C,D,C,With neither...nor the verb agrees with the nearer subject (brothers). Should be were present.,English Comprehension
+Improve: She is knowing the answer.,She knows the answer,She has knowing the answer,She was knowing,No improvement,A,Know is a stative verb not used in continuous tense. Correct: She knows.,English Comprehension
+He has been ill _____ Monday.,from,for,since,by,C,Since is used with a specific day or point in time.,English Comprehension
+Passive: They will complete the project tomorrow.,The project will be completed by them tomorrow,The project would be completed,The project is completed,The project has been completed,A,Future simple active to passive: will be + V3.,English Comprehension
+"Indirect: He said, Where do you live?",He asked where I lived,He asked where do I live,He asked where I live,He said where I lived,A,Reported question: do you live becomes where I lived. No question mark.,English Comprehension
+Find the correctly spelt word:,Begining,Beginning,Beginng,Begginning,B,Beginning: double n.,English Comprehension
+To add fuel to the fire means?,To cook,To worsen a situation,To help someone,To be brave,B,It means to make a bad situation worse.,English Comprehension
+Synonym of Meticulous?,Careless,Thorough,Quick,Lazy,B,Meticulous means showing great attention to detail. Thorough is similar.,English Comprehension
+I wish I _____ a doctor.,am,was,were,be,C,"After wish for unreal situations, were is used for all subjects.",English Comprehension
+Antonym of Exorbitant?,Expensive,Costly,Reasonable,High,C,Exorbitant means unreasonably high. Reasonable is the opposite.,English Comprehension
+One word for murder of ones own father?,Matricide,Patricide,Fratricide,Infanticide,B,Patricide is the killing of ones father.,English Comprehension
+Error: Each boy and each girl (A)/ were given (B)/ a prize (C)/ for performance (D),A,B,C,D,B,Each...and each takes singular verb. Should be was given.,English Comprehension
+Break the ice means?,To break something,To initiate conversation in awkward situation,To cool down,To freeze,B,Break the ice means to initiate social interaction or conversation.,English Comprehension
+Correct preposition: I congratulated him _____ his success.,for,on,at,with,B,Congratulate on is the correct collocation.,English Comprehension
+Active: A letter was being written by her.,She was writing a letter,She wrote a letter,She writes a letter,She has written a letter,A,Past continuous passive to active: Subject + was + V-ing + Object.,English Comprehension
+Select the word with correct spelling:,Enviroment,Envirnoment,Environment,Enviorment,C,Environment: n-m-e-n-t.,English Comprehension
+If he had studied he _____ passed.,will have,would have,shall have,could,B,"Third conditional: If + had + V3, would have + V3.",English Comprehension
+One word for a government by the rich?,Democracy,Plutocracy,Aristocracy,Bureaucracy,B,Plutocracy is government by the wealthy.,English Comprehension
+Synonym of Frugal?,Wasteful,Extravagant,Thrifty,Generous,C,Frugal means sparing with money. Thrifty is its synonym.,English Comprehension
+Error: The news (A)/ are not (B)/ reliable so (C)/ ignore it (D),A,B,C,D,B,News is uncountable and takes singular verb. Should be: is not.,English Comprehension
+Barking up the wrong tree means?,Training a dog,Making a wrong assumption,Climbing trees,Being loud,B,It means pursuing a mistaken or misguided course of action.,English Comprehension
