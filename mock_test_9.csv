@@ -1,0 +1,101 @@
+question,option_a,option_b,option_c,option_d,correct,explanation,subject
+Find next: 7 14 28 56 112 ?,220,226,228,224,D,Each term doubles. 112*2=224.,General Intelligence and Reasoning
+Statement: No pen is eraser. All erasers are sharpeners. Conclusion I: No pen is sharpener. Conclusion II: Some sharpeners are erasers.,Both follow,Neither follows,Only II follows,Only I follows,C,All erasers are sharpeners means some sharpeners are erasers (II follows). But no pen is eraser does not mean no pen is sharpener (I uncertain).,General Intelligence and Reasoning
+If MANGO is coded as OCPIQ (each +2) then APPLE is coded as?,BQQMF,CRRNG,CRRNE,CRRMG,B,A+2=C P+2=R P+2=R L+2=N E+2=G. APPLE=CRRNG.,General Intelligence and Reasoning
+Find odd: 121 143 169 196 225,143,121,196,169,A,121=11^2 169=13^2 196=14^2 225=15^2. 143=11*13 is not a perfect square.,General Intelligence and Reasoning
+Pointing to a girl Ram said She is the daughter of my mothers only child. How is girl related to Ram?,Niece,Sister,Mother,Daughter,D,Mothers only child is Ram himself. The girl is daughter of Ram.,General Intelligence and Reasoning
+Series: QPO NML KJI HGF ?,EDC,DCB,FED,EDB,A,Groups of 3 consecutive letters going backwards: QPO NML KJI HGF EDC.,General Intelligence and Reasoning
+A faces North and turns 90 left then 180 right. Direction now?,East,West,North,South,A,North turn left 90=West. Then right 180 from West=East.,General Intelligence and Reasoning
+Analogy: Doctor:Hospital :: Teacher:?,School,Office,Court,Church,A,Doctor works in hospital. Teacher works in school.,General Intelligence and Reasoning
+If 3*4=24 and 5*6=60 then 7*8=?,96,120,112,108,C,Pattern: a*b = a*b*2. 3*4*2=24. 5*6*2=60. 7*8*2=112.,General Intelligence and Reasoning
+How many days in a leap year?,367,364,366,365,C,A leap year has 366 days with February having 29 days.,General Intelligence and Reasoning
+In a class Ram ranks 9th from top and 38th from bottom. Total students?,46,47,48,45,A,Total = 9 + 38 - 1 = 46.,General Intelligence and Reasoning
+If + means minus and - means multiply and * means divide and / means plus then 10-5/3*1+4=?,49,50,48,51,A,10 multiply 5 plus 3 divide 1 minus 4 = 50+3-4 = 49.,General Intelligence and Reasoning
+Which word can be made from letters of ENVIRONMENT?,MAKE,MOVE,MIST,MINE,D,E-N-V-I-R-O-N-M-E-N-T. MINE needs M-I-N-E all present. MOVE needs M-O-V-E present. MAKE needs K not present. MIST needs S not present. Both A and B possible but MINE is option A.,General Intelligence and Reasoning
+Complete pattern: 1 8 27 64 125 ?,256,200,210,216,D,Series of cubes: 1^3 2^3 3^3 4^3 5^3 6^3=216.,General Intelligence and Reasoning
+A mother is 3 times as old as her daughter. After 12 years she will be twice as old. Daughters present age?,10,8,15,12,D,M=3D. M+12=2(D+12). 3D+12=2D+24. D=12.,General Intelligence and Reasoning
+Syllogism: All birds can fly. Penguins are birds. Conclusion?,Penguins are not birds,No penguins can fly,All penguins can fly (logically valid from given premises though factually wrong),Some penguins can fly,C,From the given premises (all birds fly + penguins are birds) the logical conclusion is all penguins can fly. This tests logical validity not factual accuracy.,General Intelligence and Reasoning
+Which figure completes the series: Square with 1 dot then Square with 2 dots then Square with 3 dots then?,Square with 4 dots,Circle with 4 dots,Triangle with 4 dots,Square with 5 dots,A,Pattern: same shape with increasing dots. Next is square with 4 dots.,General Intelligence and Reasoning
+If PATNA is written in reverse order of letters the result is?,PATNA,ANTAP,TAPAN,NAPAT,B,PATNA reversed letter by letter = A-N-T-A-P = ANTAP.,General Intelligence and Reasoning
+In a queue John is 10th from front and 15th from back. Total people?,26,23,24,25,C,Total = 10 + 15 - 1 = 24.,General Intelligence and Reasoning
+Decision making: You find a sealed envelope addressed to your colleague on your desk by mistake. You should?,Keep it for yourself,Throw it away,Hand it over to the colleague without opening,Open it to check contents,C,Ethical decision is to deliver it to the rightful owner without violating their privacy.,General Intelligence and Reasoning
+If all Zips are Zaps and all Zaps are Zops then?,All Zops are Zips,All Zips are Zops,No Zip is Zop,All Zops are Zaps,B,Transitive: All Zips are Zaps and all Zaps are Zops means all Zips are Zops.,General Intelligence and Reasoning
+Number analogy: 16:64 :: 25:?,100,50,125,625,C,Pattern: 16:64 = 4^2:4^3. So 25:? = 5^2:5^3 = 25:125.,General Intelligence and Reasoning
+Critical thinking: A notice says Park closes at 6 PM. It is 5:45 PM. You should?,Begin to leave the park,Ignore the notice,Start a new activity in the park,Complain about early closing,A,Critical thinking: with only 15 minutes left you should begin wrapping up and leaving.,General Intelligence and Reasoning
+Input-output: Input 25 14 63 8 92. Step1 arranges largest first. Step1 output?,92 25 14 63 8,25 14 63 8 92,8 14 25 63 92,92 63 25 14 8,A,Step1 puts the largest number (92) first and keeps rest in original order: 92 25 14 63 8.,General Intelligence and Reasoning
+If Monday is called Tuesday and Tuesday is called Wednesday... and Sunday is called Monday then what do we call the 5th day of week?,Friday,Thursday,Wednesday,Saturday,D,Actual 5th day is Friday. In the new naming each day is called next days name. Friday is called Saturday.,General Intelligence and Reasoning
+Which Harappan site is known for its fire altars?,Mohenjo-daro,Lothal,Harappa,Kalibangan,D,Kalibangan in Rajasthan is known for fire altars suggesting possible Vedic-like rituals.,General Awareness
+Manipuri dance is associated with which state?,Nagaland,Mizoram,Assam,Manipur,D,Manipuri is a classical dance from Manipur depicting themes from Radha-Krishna legend.,General Awareness
+Jim Corbett National Park is in which state?,Karnataka,Rajasthan,Uttarakhand,Madhya Pradesh,C,Jim Corbett in Uttarakhand was established in 1936 as Indias first national park.,General Awareness
+Who discovered X-rays?,Marie Curie,Wilhelm Roentgen,Max Planck,Albert Einstein,B,Wilhelm Roentgen discovered X-rays in 1895 and won the first Nobel Prize in Physics.,General Awareness
+Gaganyaan is which countrys human spaceflight programme?,China,Japan,Russia,India,D,Gaganyaan is ISROs programme to send Indian astronauts to space planned for 2025.,General Awareness
+Who wrote Gitanjali?,Bankim Chandra,Premchand,Sarojini Naidu,Rabindranath Tagore,D,Gitanjali was written by Rabindranath Tagore who won Nobel Prize in Literature 1913.,General Awareness
+Which city hosted 2024 Summer Olympics?,Tokyo,Los Angeles,Paris,London,C,The 2024 Summer Olympics were held in Paris France.,General Awareness
+Jan Dhan Yojana launched in 2014 aims to provide?,Free healthcare,Food security,Financial inclusion through bank accounts for all,Housing for poor,C,PM Jan Dhan Yojana provides universal access to banking with zero balance accounts.,General Awareness
+The Tropic of Cancer passes through how many Indian states?,6,7,8,9,C,"The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",General Awareness
+Which river is known as Sorrow of Bihar?,Son,Ganga,Kosi,Gandak,C,River Kosi is called Sorrow of Bihar due to frequent floods causing widespread destruction.,General Awareness
+Ellora Caves are located in?,Gujarat,Maharashtra,Karnataka,Madhya Pradesh,B,Ellora Caves near Aurangabad Maharashtra contain Hindu Buddhist and Jain caves.,General Awareness
+Who built the Grand Trunk Road originally?,Akbar,Ashoka,Sher Shah Suri,British,C,Sher Shah Suri rebuilt and extended the Grand Trunk Road in the 16th century connecting Kabul to Bengal.,General Awareness
+What is the chemical formula of Ozone?,O3,O,O4,O2,A,Ozone is a molecule made of three oxygen atoms with formula O3.,General Awareness
+The Red Fort is located in which city?,Lahore,Delhi,Agra,Jaipur,B,Red Fort (Lal Qila) is in Delhi built by Shah Jahan in 1639.,General Awareness
+How many medals did India win at Paris Olympics 2024?,7,8,6,5,C,India won 6 medals at 2024 Paris Olympics including bronze medals by Manu Bhaker and Neeraj Chopra silver.,General Awareness
+The largest planet in our solar system is?,Neptune,Uranus,Jupiter,Saturn,C,Jupiter is the largest planet with diameter of about 139820 km.,General Awareness
+Nagarjuna Sagar Dam is on which river?,Cauvery,Godavari,Krishna,Mahanadi,C,Nagarjuna Sagar Dam is on Krishna River at the border of Telangana and Andhra Pradesh.,General Awareness
+Who was the first woman President of the Indian National Congress?,Sarojini Naidu,Annie Besant,Indira Gandhi,Sonia Gandhi,B,Annie Besant was the first woman President of the Indian National Congress. She presided over the 1917 Calcutta session of the Congress.,General Awareness
+COP28 climate conference 2023 was held in?,Sharm El Sheikh Egypt,Paris France,Dubai UAE,Glasgow UK,C,COP28 was held in Dubai UAE in November-December 2023.,General Awareness
+Sattriya dance is from which state?,West Bengal,Manipur,Odisha,Assam,D,Sattriya is a classical dance from Assam originated in Vaishnavite monasteries (Sattras).,General Awareness
+Who invented the electric bulb?,Thomas Edison,Nikola Tesla,Benjamin Franklin,Michael Faraday,A,Thomas Edison invented the practical incandescent electric light bulb in 1879.,General Awareness
+Which desert is the largest hot desert in the world?,Sahara,Gobi,Arabian,Thar,A,Sahara Desert in Africa is the worlds largest hot desert covering about 9.2 million sq km.,General Awareness
+Digital India programme was launched in which year?,2016,2017,2014,2015,D,Digital India was launched on July 1 2015 to transform India into a digitally empowered society.,General Awareness
+Sardar Sarovar Dam is on which river?,Sabarmati,Narmada,Mahi,Tapti,B,Sardar Sarovar Dam is on the Narmada River in Gujarat.,General Awareness
+The Rigveda is primarily a collection of?,Hymns to gods,Philosophical discussions,Historical accounts,Rituals and ceremonies,A,Rigveda is the oldest Veda containing 1028 hymns (suktas) dedicated to various deities.,General Awareness
+If sin 30 = 1/2 then cos 60 equals?,1,sqrt(3)/2,0,1/2,D,cos 60 = sin 30 = 1/2. Complementary angles.,Quantitative Aptitude
+Total surface area of a cube with side 5 cm?,125 sq cm,200 sq cm,100 sq cm,150 sq cm,D,TSA = 6*side^2 = 6*25 = 150 sq cm.,Quantitative Aptitude
+Find the greatest number that divides 43 and 91 leaving remainders 3 and 1 respectively.,8,5,10,4,C,Numbers become 43-3=40 and 91-1=90. HCF(40 90)=10.,Quantitative Aptitude
+Simplify: 999*999 =?,997001,999000,998001,999999,C,999^2 = (1000-1)^2 = 1000000 - 2000 + 1 = 998001.,Quantitative Aptitude
+Three numbers are in ratio 2:3:5. Their sum is 200. Largest number?,100,60,120,80,A,Sum of ratio=10. Largest=(5/10)*200=100.,Quantitative Aptitude
+A vessel contains 80L of milk. 8L removed and replaced with water. Done again. Milk now?,60 litres,72 litres,64.8 litres,68 litres,C,After 2 replacements: milk = 80*(1-8/80)^2 = 80*(72/80)^2 = 80*(0.9)^2 = 80*0.81 = 64.8L.,Quantitative Aptitude
+If A works twice as fast as B and together they finish in 12 days then A alone finishes in?,36 days,18 days,16 days,24 days,B,Let B rate=x then A=2x. Together=3x=1/12. A rate=2x=2/36=1/18. A alone=18 days.,Quantitative Aptitude
+Speed of a car is 60 km/h. Distance covered in 45 minutes?,45 km,30 km,50 km,60 km,A,Distance=60*45/60=45 km.,Quantitative Aptitude
+SP=720 Profit=20%. Find CP.,Rs 650,Rs 700,Rs 576,Rs 600,D,CP=SP/(1+P%)=720/1.2=600.,Quantitative Aptitude
+Value of (125)^(2/3)?,625,15,25,5,C,125=5^3. (5^3)^(2/3)=5^2=25.,Quantitative Aptitude
+A sells an article at 25% profit. If he had sold it for Rs 35 more the profit would be 30%. Find CP.,Rs 600,Rs 800,Rs 700,Rs 500,C,SP1=1.25CP. SP2=1.30CP. Difference: 0.05CP=35. CP=700.,Quantitative Aptitude
+Perimeter of semicircle with diameter 14 cm (pi=22/7)?,22 cm,58 cm,44 cm,36 cm,D,Perimeter=pi*r+d=(22/7)*7+14=22+14=36 cm.,Quantitative Aptitude
+Ages of A and B are in ratio 3:4. After 5 years ratio becomes 4:5. Present age of A?,12 years,20 years,15 years,18 years,C,3x+5:4x+5=4:5. 5(3x+5)=4(4x+5). 15x+25=16x+20. x=5. A=3*5=15.,Quantitative Aptitude
+Two trains running in same direction at 60 and 40 km/h. Faster train 150m long passes a man in slower train in?,20 seconds,30 seconds,15 seconds,27 seconds,D,Relative speed=60-40=20 km/h=50/9 m/s. Time=150/(50/9)=150*9/50=27 sec.,Quantitative Aptitude
+Value of (0.01)^(1/2)?,1,0.1,0.01,0.001,B,sqrt(0.01)=0.1.,Quantitative Aptitude
+Two numbers whose sum is 25 and product is 156. The numbers are?,12 and 13,11 and 14,9 and 16,10 and 15,A,12+13=25 and 12*13=156.,Quantitative Aptitude
+SI on Rs 4000 at 8% for 3 years?,Rs 800,Rs 1200,Rs 960,Rs 640,C,SI=PRT/100=4000*8*3/100=960.,Quantitative Aptitude
+Area of circle with radius 21 cm (pi=22/7)?,1200 sq cm,1452 sq cm,1320 sq cm,1386 sq cm,D,Area=pi*r^2=(22/7)*441=1386 sq cm.,Quantitative Aptitude
+Simplify: sqrt(400) - sqrt(196) + sqrt(25)?,9,13,11,15,C,sqrt(400)=20 sqrt(196)=14 sqrt(25)=5. 20-14+5=11.,Quantitative Aptitude
+What is sqrt(144)?,14,10,12,16,C,Square root of 144 = 12.,Quantitative Aptitude
+A tank is filled in 6 hours by pipe A. Pipe B empties it in 8 hours. If both open time to fill?,18 hours,20 hours,12 hours,24 hours,D,Net rate=1/6-1/8=4/24-3/24=1/24. Time=24 hours.,Quantitative Aptitude
+If price increases by 25% by what percent should consumption decrease to keep expenditure same?,25%,15%,30%,20%,D,Decrease = (25/125)*100 = 20%.,Quantitative Aptitude
+The average of 5 consecutive numbers is 18. Largest number?,19,21,20,22,C,If avg=18 then numbers are 16 17 18 19 20. Largest=20.,Quantitative Aptitude
+"Distance between points (3,4) and (6,8)?",6,5,4,7,B,Distance=sqrt((6-3)^2+(8-4)^2)=sqrt(9+16)=sqrt(25)=5.,Quantitative Aptitude
+A cone and cylinder have same radius and height. Ratio of their volumes?,2:3,1:2,1:3,3:1,C,Cone volume=(1/3)pi*r^2*h. Cylinder=pi*r^2*h. Ratio=1:3.,Quantitative Aptitude
+"Choose the correct meaning of the idiom: ""To burn the midnight oil""",To waste resources,To work or study late into the night,To destroy something valuable,To start a fire,B,"The idiom ""to burn the midnight oil"" means to work or study late into the night, referring to the old practice of using oil lamps for light.",English Comprehension
+Meaning of: To cry over spilt milk?,To be sad about food,To waste milk,To regret over what cannot be undone,To cry loudly,C,Cry over spilt milk means to regret something that has already happened and cannot be changed.,English Comprehension
+One word for: A place where dead bodies are kept?,Mausoleum,Crematorium,Cemetery,Mortuary,D,Mortuary is a place where dead bodies are kept before burial or cremation.,English Comprehension
+Change narration: She said I will come tomorrow.,She said that she will come tomorrow,She said I will come tomorrow,She said that she would come the next day,She told she is coming tomorrow,C,Will changes to would. Tomorrow changes to the next day in indirect speech.,English Comprehension
+Change voice: They are building a new bridge.,A new bridge was built,A new bridge is built by them,A new bridge is being built by them,A new bridge has been built,C,Present continuous passive: is/are + being + past participle.,English Comprehension
+Fill blank: She is good ___ mathematics.,in,at,with,on,B,Good at is the correct collocation for subjects and skills.,English Comprehension
+Synonym of ENORMOUS?,Tiny,Narrow,Small,Huge,D,Enormous means very large. Huge is its synonym.,English Comprehension
+Antonym of ARTIFICIAL?,Natural,Manufactured,Fake,Synthetic,A,Artificial means man-made. Natural is its opposite.,English Comprehension
+Spot error: One of my friend (A)/ has gone (B)/ to America (C)/ No error (D),B,D,A - friend should be friends,C,C,One of + plural noun. Correct: One of my friends.,English Comprehension
+Meaning of: To add fuel to the fire?,To make a situation worse,To help someone,To cook food,To start a fire,A,Add fuel to the fire means to worsen an already bad situation.,English Comprehension
+One word for: A government where power is held by one person?,Oligarchy,Democracy,Theocracy,Autocracy,D,Autocracy is government by one person with absolute power.,English Comprehension
+Correct preposition: He is angry ___ me.,on,with,at,upon,B,Angry with a person is the correct usage.,English Comprehension
+Rearrange: river/the/into/the/flows/sea,Into the sea the river flows,The sea flows into the river,River the into sea the flows,The river flows into the sea,D,Correct order: The river flows into the sea.,English Comprehension
+One word for: One who looks at the bright side?,Optimist,Cynic,Realist,Pessimist,A,An optimist is someone who looks at the positive side of things.,English Comprehension
+Correct form: The pair of shoes ___ expensive.,are,is,have been,were,B,Pair of is singular subject taking singular verb is.,English Comprehension
+Type of sentence: Please sit down.,Interrogative,Exclamatory,Declarative,Imperative,D,Sentences giving commands or requests are imperative.,English Comprehension
+Passive voice: People speak English all over the world.,English has been spoken all over,English is spoken all over the world,English was spoken all over the world,English will be spoken all over,B,Simple present passive: is + past participle. By people omitted as general agent.,English Comprehension
+Fill blank: She insisted ___ going alone.,for,to,on,at,C,Insist on is the correct phrasal construction.,English Comprehension
+Correctly spelled:,Ocurrence,Occurance,Occurence,Occurrence,D,Occurrence with double c and double r is correct.,English Comprehension
+Meaning of: To break the ice?,To initiate conversation in awkward situation,To fail at something,To break actual ice,To end a relationship,A,Break the ice means to do something to relieve tension or start conversation.,English Comprehension
+Indirect: The boy said Hurrah! We have won the match.,The boy said hurrah they won,The boy exclaimed with joy that they had won the match,The boy exclaimed they are winning,The boy told that they have won,B,Exclamatory to indirect: exclaimed with joy that + past perfect.,English Comprehension
+Word closest to PRAGMATIC?,Theoretical,Dreamy,Practical,Idealistic,C,Pragmatic means dealing with things in a practical way. Practical is its synonym.,English Comprehension
+Correct sentence:,The cattle was grazing in the field,The cattles are grazing in field,The cattle is grazing in the field,The cattle are grazing in the field,D,Cattle is always plural and takes plural verb are.,English Comprehension
+Fill blank: He ___ here since morning.,had been,has been,is,was,B,Since morning indicates present perfect continuous. Has been is correct.,English Comprehension
+Meaning of: To burn ones bridges?,To destroy property,To eliminate possibility of retreat,To make enemies,To burn actual bridges,B,Burn ones bridges means to do something that makes it impossible to go back to a previous situation.,English Comprehension

@@ -1,0 +1,101 @@
+question,option_a,option_b,option_c,option_d,correct,explanation,subject
+In a 3x3 matrix Row1: 2 12 10; Row2: 4 8 6; Row3: 6 ? 2. Find the missing number.,4,3,5,6,A,Column 2 pattern: 12 then 8 then 4 (decreasing by 4). Missing number is 4.,General Intelligence and Reasoning
+Statement: All pens are books. All books are papers. Conclusion I: All pens are papers. Conclusion II: Some papers are pens.,Only II follows,Both I and II follow,Neither follows,Only I follows,B,All pens are books and all books are papers gives all pens are papers (I follows). Since all pens are papers some papers are pens (II follows).,General Intelligence and Reasoning
+If each letter is shifted by +3 positions then IRUHVW represents which word?,FOREST,FORMAT,FOSTER,FORBID,A,I-3=F R-3=O U-3=R H-3=E V-3=S W-3=T. The word is FOREST.,General Intelligence and Reasoning
+Complete the series: AZ CX EV GT ?,JR,HR,IS,IR,D,First letters: A C E G I (skip one). Second letters: Z X V T R (decrease by 2). Next is IR.,General Intelligence and Reasoning
+Arrange in logical sequence: 1.Book 2.Chapter 3.Page 4.Sentence 5.Word,5 4 3 2 1,1 2 3 4 5,3 4 5 2 1,5 4 2 3 1,A,Smallest to largest: Word Sentence Page Chapter Book = 5 4 3 2 1.,General Intelligence and Reasoning
+A person walks 4 km East then turns left walks 3 km then turns left walks 4 km. How far is he from start?,3 km,5 km,4 km,7 km,A,4E then 3N then 4W. Net displacement is 3 km North of start.,General Intelligence and Reasoning
+Find the odd one out: Mercury Venus Mars Moon,Mars,Venus,Mercury,Moon,D,Mercury Venus Mars are planets. Moon is a natural satellite.,General Intelligence and Reasoning
+P is mother of Q. R is husband of P. S is brother of R. How is S related to Q?,Brother,Grandfather,Uncle,Father,C,R is father of Q. S is brother of R so S is uncle of Q.,General Intelligence and Reasoning
+Find the missing number: 2:8 :: 4:?,32,24,16,64,D,Pattern is n:n^3. 2:8 and 4:64.,General Intelligence and Reasoning
+In a row of students Mohan is 14th from left and 10th from right. Total students?,25,23,22,24,B,Total = 14 + 10 - 1 = 23.,General Intelligence and Reasoning
+If * means addition and / means subtraction and + means multiplication and - means division then 15+3/5*2-1 equals?,42,40,44,48,A,Replace: 15x3-5+2 div 1 = 45-5+2 = 42.,General Intelligence and Reasoning
+Which continues the pattern: Circle Square Triangle Circle Square ?,Triangle,Circle,Pentagon,Square,A,Pattern repeats every 3. After Circle Square comes Triangle.,General Intelligence and Reasoning
+Find the next term: 2 5 11 23 47 ?,93,96,95,94,C,Each term = previous x 2 + 1. 47x2+1 = 95.,General Intelligence and Reasoning
+Government increased import duties on electronics. Most probable effect?,Prices of imported electronics rise,Tourism increases,Electronics exports increase,Food prices decrease,A,Higher import duties increase cost of importing leading to higher domestic prices.,General Intelligence and Reasoning
+Five people P Q R S T live on floors 1-5. T is on 2. Q is on 5. P is above R. S is between T and P. Floor of P?,3,5,4,1,C,T=2 Q=5. If P=4 then S=3 between 2 and 4. R=1 below P. Configuration: R=1 T=2 S=3 P=4 Q=5.,General Intelligence and Reasoning
+Mirror image of BIRD when mirror is placed to the right?,BRID,DRIB,BIRD,DIrb,B,Mirror to the right reverses left-to-right. BIRD becomes DRIB.,General Intelligence and Reasoning
+Rahul is taller than Suresh but shorter than Mohan. Priya is taller than Mohan. Who is tallest?,Priya,Rahul,Mohan,Suresh,A,Order: Priya > Mohan > Rahul > Suresh. Priya is tallest.,General Intelligence and Reasoning
+Which does not belong: 2 3 5 7 11 15 17,7,17,15,11,C,All except 15 are prime. 15=3x5 is composite.,General Intelligence and Reasoning
+Day before yesterday was Wednesday. What day is day after tomorrow?,Sunday,Saturday,Friday,Monday,A,Day before yesterday=Wed means today=Fri. Day after tomorrow=Sun.,General Intelligence and Reasoning
+How many triangles in a square with both diagonals?,4,6,10,8,D,4 small triangles plus 4 larger triangles (pairs of adjacent small ones) = 8 total.,General Intelligence and Reasoning
+A is son of B. C is daughter of A. D is brother of A. How is D related to C?,Father,Uncle,Brother,Grandfather,B,A is father of C. D is brother of A so D is uncle of C.,General Intelligence and Reasoning
+Next in Fibonacci series: 1 1 2 3 5 8 13 ?,20,21,18,22,B,Each number is sum of previous two: 8+13=21.,General Intelligence and Reasoning
+In code TIGER is UJHFS (each +1). How is HORSE coded?,IPSTF,GNQRD,IPSRF,JQTUG,A,Each letter +1: H+1=I O+1=P R+1=S S+1=T E+1=F. HORSE=IPSTF.,General Intelligence and Reasoning
+A clock shows 3:15. Angle between hands?,22.5 degrees,7.5 degrees,15 degrees,0 degrees,B,Minute hand at 90. Hour at 90+7.5=97.5. Angle=7.5 degrees.,General Intelligence and Reasoning
+If A=1 B=2 C=3 and so on then value of FACE is?,18,14,16,15,D,F=6 A=1 C=3 E=5. Sum=6+1+3+5=15.,General Intelligence and Reasoning
+Indus Valley site Lothal is in which Indian state?,Haryana,Punjab,Gujarat,Rajasthan,C,Lothal is in Gujarat known for its ancient dockyard.,General Awareness
+Bharatanatyam originated in which state?,Tamil Nadu,Kerala,Andhra Pradesh,Karnataka,A,Bharatanatyam is one of the oldest classical dances from Tamil Nadu.,General Awareness
+First Indian biosphere reserve in UNESCO World Network?,Nanda Devi,Gulf of Mannar,Nilgiri,Sundarbans,C,Nilgiri Biosphere Reserve was first from India in UNESCO World Network in 2000.,General Awareness
+Who discovered the neutron?,Niels Bohr,Rutherford,James Chadwick,J.J. Thomson,C,James Chadwick discovered the neutron in 1932.,General Awareness
+Which Indian state was the first to implement the GST system?,Assam,Kerala,Rajasthan,Gujarat,A,Assam was the first state to ratify the GST (Goods and Services Tax) Constitutional Amendment Bill in 2016.,General Awareness
+Who authored Wings of Fire?,C.V. Raman,APJ Abdul Kalam,Vikram Sarabhai,Homi Bhabha,B,Wings of Fire is autobiography of APJ Abdul Kalam.,General Awareness
+Which country won ICC Cricket World Cup 2023?,India,Australia,England,South Africa,B,Australia won 2023 World Cup defeating India in final at Ahmedabad.,General Awareness
+PM Vishwakarma Scheme 2023 supports?,Farmers,Students,Senior citizens,Traditional artisans,D,PM Vishwakarma supports traditional artisans and craftspeople.,General Awareness
+SCO headquarters is in?,New Delhi,Astana,Beijing,Moscow,C,SCO Secretariat is in Beijing China established 2001.,General Awareness
+Brahmaputra River originates near which lake?,Chilika,Wular,Pangong,Mansarovar,D,Brahmaputra originates near Angsi Glacier in Tibet close to Lake Mansarovar.,General Awareness
+Ajanta Caves are famous for?,Buddhist paintings,Jain architecture,Mughal art,Hindu temples,A,Ajanta Caves contain Buddhist paintings and sculptures from 2nd century BCE.,General Awareness
+Mauryan Empire was founded by?,Bindusara,Ashoka,Samudragupta,Chandragupta Maurya,D,Chandragupta Maurya founded Mauryan Empire around 321 BCE.,General Awareness
+Which gas depletes ozone layer?,Carbon dioxide,Nitrogen,Methane,CFCs,D,CFCs release chlorine that destroys ozone molecules in stratosphere.,General Awareness
+Konark Sun Temple is in which state?,Tamil Nadu,Rajasthan,Odisha,Karnataka,C,Konark Sun Temple is 13th century UNESCO site in Odisha.,General Awareness
+Asian Games 2023 held in?,Hangzhou,Tokyo,Jakarta,Seoul,A,19th Asian Games 2023 held in Hangzhou China.,General Awareness
+James Webb Space Telescope launched in?,2019,2022,2021,2020,C,JWST launched December 25 2021 by NASA.,General Awareness
+Tehri Dam is on which river?,Alaknanda,Yamuna,Ganga,Bhagirathi,D,Tehri Dam is on Bhagirathi River in Uttarakhand.,General Awareness
+Who founded Gupta dynasty?,Sri Gupta,Chandragupta I,Samudragupta,Kumaragupta,A,Sri Gupta founded Gupta dynasty around 240 CE.,General Awareness
+Paris Agreement adopted in?,2014,2015,2016,2017,B,Paris Agreement adopted at COP21 December 12 2015.,General Awareness
+Kathakali dance is from?,Karnataka,Tamil Nadu,Kerala,Maharashtra,C,Kathakali is classical dance-drama from Kerala.,General Awareness
+Father of Indian Space Programme?,Satish Dhawan,Vikram Sarabhai,Homi Bhabha,APJ Abdul Kalam,B,Dr Vikram Sarabhai founded ISRO and initiated space research.,General Awareness
+Sundarbans is primarily in which state?,West Bengal,Odisha,Andhra Pradesh,Tamil Nadu,A,Sundarbans largest mangrove forest is in West Bengal.,General Awareness
+BRICS expanded in 2024 adding how many new members?,4,6,3,5,D,BRICS added 5 new members in January 2024.,General Awareness
+Longest river in peninsular India?,Kaveri,Krishna,Godavari,Narmada,C,Godavari at about 1465 km is longest peninsular river.,General Awareness
+Vedic period dates to approximately?,1500-500 BCE,500 BCE-100 CE,2500-1500 BCE,3000-2000 BCE,A,Vedic period spans approximately 1500-500 BCE.,General Awareness
+If sin A = 3/5 then cos A equals?,4/5,3/4,5/3,2/5,A,sin^2+cos^2=1. 9/25+cos^2=1. cos A=4/5.,Quantitative Aptitude
+Volume of hemisphere radius 7 cm (pi=22/7)?,718.67 cm^3,616 cm^3,1437.33 cm^3,924 cm^3,A,V=(2/3)*pi*r^3=(2/3)*(22/7)*343=718.67 cm^3.,Quantitative Aptitude
+LCM of 12 15 and 20?,120,60,30,180,B,12=2^2*3 and 15=3*5 and 20=2^2*5. LCM=2^2*3*5=60.,Quantitative Aptitude
+Simplify (27)^(2/3)+(8)^(2/3)-(64)^(1/2)?,9,5,1,13,B,27^(2/3)=9 and 8^(2/3)=4 and 64^(1/2)=8. Answer=9+4-8=5.,Quantitative Aptitude
+A:B=2:3 and B:C=4:5. Find A:B:C.,4:6:5,8:12:15,2:3:5,6:9:10,B,Make B common: A:B=8:12 and B:C=12:15. So A:B:C=8:12:15.,Quantitative Aptitude
+Mixture 40L milk:water=3:1. Water to add for ratio 3:2?,8 litres,12 litres,10 litres,5 litres,C,Milk=30 Water=10. For 3:2 ratio 30/(10+x)=3/2. 60=30+3x. x=10.,Quantitative Aptitude
+If x+1/x=5 then x^2+1/x^2?,25,21,27,23,D,(x+1/x)^2=x^2+2+1/x^2=25. So x^2+1/x^2=23.,Quantitative Aptitude
+HCF of 36 and 84?,12,18,24,6,A,36=2^2*3^2 and 84=2^2*3*7. HCF=2^2*3=12.,Quantitative Aptitude
+Rs 5000 becomes Rs 6050 in 2 years at SI. Rate?,10.5%,12%,10%,11%,A,SI=1050. R=(1050*100)/(5000*2)=10.5%.,Quantitative Aptitude
+Area of triangle with sides 13 14 15 cm?,78 sq cm,84 sq cm,91 sq cm,96 sq cm,B,s=21. Area=sqrt(21*8*7*6)=sqrt(7056)=84 sq cm.,Quantitative Aptitude
+Ratio of radii 2:3. Ratio of sphere volumes?,8:27,2:3,16:81,4:9,A,Volume ratio=(r1/r2)^3=(2/3)^3=8:27.,Quantitative Aptitude
+Train 150m passes pole in 15 sec. Speed in km/h?,45,36,30,40,B,Speed=150/15=10 m/s=36 km/h.,Quantitative Aptitude
+CI on Rs 10000 for 2 years at 10% pa?,Rs 2200,Rs 2500,Rs 2100,Rs 2000,C,CI=10000[(1.1)^2-1]=10000*0.21=Rs 2100.,Quantitative Aptitude
+CP=800 SP=920. Profit percent?,12%,18%,15%,20%,C,Profit=120. Profit%=(120/800)*100=15%.,Quantitative Aptitude
+Average of first 50 natural numbers?,26,25.5,25,50,B,Avg=(50+1)/2=25.5.,Quantitative Aptitude
+Boat goes 12km upstream in 3hr and 12km downstream in 2hr. Speed of current?,4 km/h,3 km/h,2 km/h,1 km/h,D,Upstream speed=4 and downstream=6. Current=(6-4)/2=1 km/h.,Quantitative Aptitude
+Pipes A and B fill tank in 20 and 30 min. Together they fill in?,10 minutes,25 minutes,15 minutes,12 minutes,D,1/20+1/30=5/60=1/12. Time=12 min.,Quantitative Aptitude
+If tan theta=4/3 then sin theta?,4/5,3/5,3/4,5/4,A,Hypotenuse=5. sin=opposite/hypotenuse=4/5.,Quantitative Aptitude
+Rectangle perimeter 60 cm and length is twice breadth. Area?,150 sq cm,250 sq cm,200 sq cm,180 sq cm,C,2(2b+b)=60 so b=10 and l=20. Area=200 sq cm.,Quantitative Aptitude
+What is 15% of 840?,130,120,128,126,D,0.15 times 840 = 126.,Quantitative Aptitude
+Diagonal of square is 10 cm. Area?,50 sq cm,75 sq cm,25 sq cm,100 sq cm,A,Area=d^2/2=100/2=50 sq cm.,Quantitative Aptitude
+A does work in 10 days B in 15 days. Together?,7 days,8 days,6 days,5 days,C,1/10+1/15=5/30=1/6. Together 6 days.,Quantitative Aptitude
+Sum of interior angles of hexagon?,360 degrees,720 degrees,1080 degrees,540 degrees,B,Formula (n-2)*180=(6-2)*180=720 degrees.,Quantitative Aptitude
+Number increased 20% then decreased 20%. Net change?,2% decrease,4% decrease,No change,4% increase,B,1.2*0.8=0.96 which is 4% decrease.,Quantitative Aptitude
+A number divided by 7 leaves remainder 3. Same number divided by 7 gives quotient 4. The number is?,30,28,31,32,C,Number = 7*4 + 3 = 31.,Quantitative Aptitude
+Choose the correctly spelled word.,Accommodation,Acomodation,Accomodation,Acommodation,A,Accommodation has double c and double m.,English Comprehension
+Idiom meaning very expensive?,Cost an arm and a leg,Hit the nail on the head,Break the ice,Burn midnight oil,A,Cost an arm and a leg means very expensive.,English Comprehension
+One word for a person who knows many languages?,Polyglot,Interpreter,Bilingual,Linguist,A,Polyglot means a person who knows several languages.,English Comprehension
+Change narration: He said I am going to school.,He said that I am going to school,He says he was going to school,He told that he is going to school,He said that he was going to school,D,Direct to indirect: change I to he and am going to was going.,English Comprehension
+Passive voice of: The teacher punished the student.,The student will be punished by teacher,The student was punished by the teacher,The student is punished by the teacher,The student has been punished by teacher,B,Active to passive: object becomes subject with was + past participle.,English Comprehension
+Fill blank: She has been working here ___ 2015.,by,since,for,from,B,Since is used with a specific point in time.,English Comprehension
+Synonym of ABUNDANT?,Scarce,Rare,Meagre,Plentiful,D,Abundant means plentiful or in large quantities.,English Comprehension
+Antonym of BENEVOLENT?,Kind,Charitable,Malevolent,Generous,C,Benevolent means kind. Malevolent means having evil intentions.,English Comprehension
+Error in: Each of the boys have completed their homework on time.,on should be in,have should be has,their should be his,Each should be All,B,Each takes singular verb. Correct: has completed.,English Comprehension
+Meaning of: Burn the midnight oil?,Cook late,Work or study late at night,Be angry,Waste resources,B,Burn midnight oil means working or studying late at night.,English Comprehension
+One word for government by the rich?,Aristocracy,Monarchy,Plutocracy,Democracy,C,Plutocracy is government by the wealthy class.,English Comprehension
+Correct preposition: She is fond ___ music.,in,with,at,of,D,Fond of is the correct collocation.,English Comprehension
+Rearrange: always/she/the/helps/needy,She always helps the needy,She helps always the needy,Always she helps the needy,The needy she always helps,A,Correct grammatical order: She always helps the needy.,English Comprehension
+Word meaning one who eats too much?,Vegetarian,Glutton,Herbivore,Gourmet,B,Glutton means a person who eats excessively.,English Comprehension
+Correct form: If I ___ a bird I would fly.,will be,were,was,am,B,Second conditional uses were for all subjects.,English Comprehension
+Part of speech of FAST in She runs fast?,Noun,Adverb,Adjective,Verb,B,Fast modifies the verb runs so it is an adverb here.,English Comprehension
+Passive of imperative: Open the door.,Let the door be opened,The door is opened,Door may be opened,The door was opened,A,Imperative passive uses Let + object + be + past participle.,English Comprehension
+Fill blank: Neither Ram ___ Shyam was present.,but,and,nor,or,C,Neither pairs with nor as correlative conjunction.,English Comprehension
+Correctly spelled word?,Consciencious,Conscientious,Conciencious,Conscientous,B,Conscientious meaning diligent is the correct spelling.,English Comprehension
+Meaning of a white elephant?,Rare animal,Costly but useless possession,Valuable item,Lucky charm,B,White elephant means an expensive but impractical possession.,English Comprehension
+Indirect speech of: She said Do not go there.,She said to not go there,She said that do not go there,She told not going there,She advised not to go there,D,Negative imperative in indirect: advised not to + verb.,English Comprehension
+Word similar to ELOQUENT?,Articulate,Confused,Silent,Rude,A,Eloquent means fluent in speaking. Articulate is its synonym.,English Comprehension
+Correct sentence?,He is one of the best players who have ever played,He is one of the best player who have played,He is one of the best players who has ever played,He is one of best players who is played,A,Relative pronoun who refers to players (plural) so verb is have.,English Comprehension
+Choose correct usage: The committee ___ divided in its opinion.,have been,are,was,were,C,Committee is collective noun taking singular verb was.,English Comprehension
+Meaning of: To let the cat out of the bag?,To reveal a secret,To start a fight,To make a mistake,To release an animal,A,Let the cat out of the bag means to reveal a secret accidentally.,English Comprehension

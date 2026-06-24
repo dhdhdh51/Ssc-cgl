@@ -1,0 +1,101 @@
+question,option_a,option_b,option_c,option_d,correct,explanation,subject
+"What comes next in the series: 2, 6, 12, 20, 30, ?",40,42,38,44,B,"The differences are 4, 6, 8, 10. The next difference is 12, so 30 + 12 = 42.",General Intelligence and Reasoning
+In a certain code COME is written as FRPH. How will DONE be written?,GRQH,GRPH,GRRH,HSRI,A,"Each letter is shifted forward by 3. D+3=G, O+3=R, N+3=Q, E+3=H. DONE = GRQH.",General Intelligence and Reasoning
+"Find the odd one out: 121, 144, 169, 196, 250",121,144,250,196,C,"121=11sq, 144=12sq, 169=13sq, 196=14sq. 250 is not a perfect square.",General Intelligence and Reasoning
+Pointing to a photo Ramesh said: She is the daughter of my grandfathers only son. How is she related to Ramesh?,Sister,Cousin,Mother,Daughter,A,Grandfathers only son is Ramesh father. His daughter is Ramesh sister.,General Intelligence and Reasoning
+A man walks 5 km South turns left walks 3 km turns left walks 5 km. Direction from start?,North,East,West,South,B,"South 5km, left=East 3km, left=North 5km. Net displacement is 3 km East.",General Intelligence and Reasoning
+All roses are flowers. Some flowers are red. Conclusion I: Some roses are red. Conclusion II: Some flowers are roses.,Only I follows,Only II follows,Both follow,Neither follows,B,All roses are flowers means some flowers are roses (II). But some red flowers may not be roses so I does not follow.,General Intelligence and Reasoning
+In a code language CAT = 24. How is DOG coded?,26,28,30,24,A,C=3 A=1 T=20 sum=24. D=4 O=15 G=7 sum=26.,General Intelligence and Reasoning
+A man faces North turns right walks 3 km turns right walks 5 km turns right walks 3 km. How far from start?,3 km,5 km,8 km,2 km,B,"Faces N, turns right=E 3km, right=S 5km, right=W 3km. He is 5 km South of start.",General Intelligence and Reasoning
+"Which number comes next: 3, 9, 27, 81, ?",162,243,216,108,B,Each number multiplied by 3. 81 x 3 = 243.,General Intelligence and Reasoning
+"If + means multiply, - means divide, x means add, / means subtract then 6 + 12 - 3 x 5 / 2 = ?",27,29,25,31,A,6*12/3+5-2 = 72/3+5-2 = 24+5-2 = 27.,General Intelligence and Reasoning
+"Find the missing: 1, 4, 9, 16, 25, ?",30,35,36,49,C,"Perfect squares: 1,4,9,16,25. Next = 36.",General Intelligence and Reasoning
+Ravi is 7th from left and 12th from right in a row. Total students?,18,19,20,17,A,Total = 7 + 12 - 1 = 18.,General Intelligence and Reasoning
+Book : Reading :: Knife : ?,Writing,Sharpening,Cutting,Cooking,C,A book is used for reading; a knife is used for cutting.,General Intelligence and Reasoning
+If day before yesterday was Thursday what day is day after tomorrow?,Sunday,Monday,Saturday,Tuesday,B,"Day before yesterday=Thu, yesterday=Fri, today=Sat, tomorrow=Sun, day after=Mon.",General Intelligence and Reasoning
+Dogs Pets Animals - which Venn diagram is correct?,Dogs inside Pets inside Animals,All separate,Dogs and Pets overlap within Animals,Pets inside Dogs inside Animals,C,"All dogs are animals, some dogs are pets, all pets are animals. Dogs and Pets overlap inside Animals.",General Intelligence and Reasoning
+Painter : Canvas :: Writer : ?,Pen,Paper,Book,Ink,B,A painter works on canvas; a writer works on paper.,General Intelligence and Reasoning
+All pens are roads. All roads are houses. Conclusion I: All pens are houses. Conclusion II: All houses are pens.,Only I follows,Only II follows,Both follow,Neither follows,A,All pens are roads and all roads are houses so all pens are houses. But not all houses are pens.,General Intelligence and Reasoning
+A triangle inside a circle inside a square. Which is innermost?,Triangle,Circle,Square,Rectangle,A,The triangle is inside the circle which is inside the square. Triangle is innermost.,General Intelligence and Reasoning
+If FRIEND is coded as GSJFOE what is the pattern?,Each letter +1,Each letter -1,Alternate shift,Reverse,A,"F+1=G, R+1=S, I+1=J, E+1=F, N+1=O, D+1=E. Pattern is each letter shifted forward by 1.",General Intelligence and Reasoning
+Arrange in dictionary order: 1.Place 2.Plain 3.Plane 4.Plant 5.Plate,"1,2,3,4,5","2,1,3,4,5","1,3,2,4,5","2,3,1,4,5",A,Place < Plain < Plane < Plant < Plate in dictionary order.,General Intelligence and Reasoning
+"Series: 7, 14, 28, 56, ?",98,112,84,128,B,Each number doubled. 56 x 2 = 112.,General Intelligence and Reasoning
+If A=1 B=2...Z=26 then value of PLAN?,43,41,44,40,A,P=16 L=12 A=1 N=14. Sum=43.,General Intelligence and Reasoning
+P Q R S T sit in a row. Q is right of P. T is between Q and R. S is at extreme right. Who is in middle?,P,Q,T,R,C,Order: P Q T R S. T is in position 3 (middle).,General Intelligence and Reasoning
+If HOSPITAL is coded as HSOLTIAP what pattern is used?,Adjacent pairs swapped,Letters reversed,Odd-even swap,Random,A,HO-SP-IT-AL becomes HS-OL-TI-AP. Adjacent letter pairs are swapped.,General Intelligence and Reasoning
+B is son of C. A is daughter of B. D is brother of C. F is father of C. Who is grandfather of A?,C,D,F,B,A,A is daughter of B. B is son of C. So C is father of B and grandfather of A.,General Intelligence and Reasoning
+Who is known as the Father of the Indian Constitution?,Mahatma Gandhi,Jawaharlal Nehru,B.R. Ambedkar,Sardar Patel,C,Dr. B.R. Ambedkar chaired the Drafting Committee and is regarded as Father of the Constitution.,General Awareness
+Which is the longest river flowing entirely within India?,Yamuna,Godavari,Ganga,Brahmaputra,C,The Ganga spans approximately 2525 km entirely within India.,General Awareness
+The Battle of Plassey was fought in which year?,1764,1757,1857,1947,B,The Battle of Plassey in 1757 was between the British East India Company and Nawab Siraj ud-Daulah.,General Awareness
+Which article guarantees Right to Equality?,Article 12,Article 14,Article 19,Article 21,B,Article 14 guarantees equality before law and equal protection of laws.,General Awareness
+What is the chemical formula of water?,H2O2,CO2,H2O,NaCl,C,Water is H2O - two hydrogen atoms bonded to one oxygen atom.,General Awareness
+Who was the first President of India?,Dr. Rajendra Prasad,Dr. S. Radhakrishnan,Jawaharlal Nehru,V.V. Giri,A,Dr. Rajendra Prasad served as first President from 1950 to 1962.,General Awareness
+Which planet is closest to the Sun?,Venus,Earth,Mercury,Mars,C,Mercury orbits closest to the Sun at about 57.9 million km average distance.,General Awareness
+The Indian National Congress was founded in which year?,1857,1885,1905,1919,B,INC was founded in 1885 by Allan Octavian Hume and others.,General Awareness
+Which vitamin is produced by sunlight exposure on skin?,Vitamin A,Vitamin B12,Vitamin C,Vitamin D,D,UV-B radiation enables skin to synthesize Vitamin D essential for calcium absorption.,General Awareness
+What is the SI unit of force?,Joule,Newton,Pascal,Watt,B,The SI unit of force is Newton. 1 N = 1 kg.m/s^2.,General Awareness
+Tropic of Cancer passes through how many Indian states?,6,7,8,9,C,"It passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram.",General Awareness
+Who won the Nobel Peace Prize in 2023?,Ales Bialiatski,Narges Mohammadi,Maria Ressa,Abiy Ahmed,B,Narges Mohammadi won for her fight against oppression of women in Iran.,General Awareness
+Which is the largest gland in the human body?,Pancreas,Thyroid,Liver,Pituitary,C,The liver weighing about 1.5 kg is the largest gland.,General Awareness
+Panchayati Raj was recommended by which committee?,Ashok Mehta,Balwant Rai Mehta,L.M. Singhvi,G.V.K. Rao,B,Balwant Rai Mehta Committee (1957) recommended the three-tier Panchayati Raj system.,General Awareness
+Which city is called Silicon Valley of India?,Hyderabad,Pune,Bengaluru,Chennai,C,Bengaluru is called Silicon Valley of India due to its IT industry concentration.,General Awareness
+RBI was established in which year?,1935,1947,1949,1950,A,"RBI was established on April 1, 1935 under the RBI Act 1934.",General Awareness
+Most abundant gas in atmosphere?,Oxygen,Carbon dioxide,Nitrogen,Argon,C,Nitrogen constitutes about 78% of Earth atmosphere.,General Awareness
+G20 Summit 2023 was held in which city?,Mumbai,Bengaluru,New Delhi,Chennai,C,"G20 Leaders Summit 2023 was held in New Delhi on September 9-10, 2023.",General Awareness
+Who composed Jana Gana Mana?,Rabindranath Tagore,Bankim Chandra,Sarojini Naidu,Muhammad Iqbal,A,"Rabindranath Tagore composed Jana Gana Mana adopted as National Anthem on Jan 24, 1950.",General Awareness
+Currency of Japan?,Yuan,Won,Yen,Ringgit,C,The Yen is the official currency of Japan.,General Awareness
+Which Mughal emperor built the Taj Mahal?,Akbar,Jahangir,Shah Jahan,Aurangzeb,C,Shah Jahan built the Taj Mahal (1632-1653) in memory of Mumtaz Mahal.,General Awareness
+Chandrayaan-3 landed on Moon in which year?,2019,2022,2023,2024,C,"Chandrayaan-3 landed on Moon south pole on August 23, 2023.",General Awareness
+Smallest bone in human body?,Femur,Stapes,Radius,Patella,B,Stapes in the middle ear is the smallest bone at about 3 mm.,General Awareness
+GST was implemented from which date?,1 April 2017,1 July 2017,1 January 2018,1 April 2018,B,GST was implemented from 1 July 2017 replacing multiple indirect taxes.,General Awareness
+Which state has longest coastline?,Tamil Nadu,Kerala,Gujarat,Maharashtra,C,Gujarat has the longest coastline of about 1600 km.,General Awareness
+HCF of 36 and 48?,6,12,18,24,B,"36=2^2x3^2, 48=2^4x3. HCF=2^2x3=12.",Quantitative Aptitude
+"CP=Rs.400, SP=Rs.480. Profit%?",10%,15%,20%,25%,C,Profit=80. Profit%=(80/400)x100=20%.,Quantitative Aptitude
+A:B=3:4 and B:C=5:6. A:C=?,15:24,5:8,3:6,9:16,B,"A:B=15:20, B:C=20:24. A:C=15:24=5:8.",Quantitative Aptitude
+Train 200m long crosses pole in 10s. Speed in km/h?,72,60,80,54,A,Speed=200/10=20m/s=72km/h.,Quantitative Aptitude
+CI on Rs.10000 at 10% for 2 years?,Rs.2000,Rs.2100,Rs.2200,Rs.1900,B,CI=10000[(1.1)^2-1]=10000x0.21=2100.,Quantitative Aptitude
+Average of 5 numbers is 20. One excluded gives average 18. Excluded number?,22,24,26,28,D,"Sum5=100, Sum4=72. Excluded=28.",Quantitative Aptitude
+"If x+1/x=5, find x^2+1/x^2",23,25,27,21,A,(x+1/x)^2=x^2+2+1/x^2. x^2+1/x^2=25-2=23.,Quantitative Aptitude
+"Rectangle perimeter 40cm, length 12cm. Breadth?",8 cm,10 cm,6 cm,14 cm,A,"2(12+b)=40, b=8.",Quantitative Aptitude
+"If sinA=3/5, cosA=?",4/5,3/4,5/3,2/5,A,"cos^2A=1-9/25=16/25, cosA=4/5.",Quantitative Aptitude
+"A does work in 12 days, B in 18 days. Together?",7.2 days,8 days,6.5 days,9 days,A,1/12+1/18=5/36. Days=36/5=7.2.,Quantitative Aptitude
+35% of 600?,200,210,220,180,B,35x600/100=210.,Quantitative Aptitude
+SI on Rs.5000 at 8% for 3 years?,Rs.1000,Rs.1200,Rs.1500,Rs.800,B,SI=5000x8x3/100=1200.,Quantitative Aptitude
+Volume of cube side 5cm?,100 cu cm,125 cu cm,150 cu cm,175 cu cm,B,Volume=5^3=125.,Quantitative Aptitude
+60L mixture milk:water=2:1. Water to add for 1:2?,40L,50L,60L,30L,C,"Milk=40, Water=20. Need 40:80. Add 60L water.",Quantitative Aptitude
+Area of circle=154 sq cm. Radius? (pi=22/7),7 cm,14 cm,21 cm,49 cm,A,r^2=154x7/22=49. r=7.,Quantitative Aptitude
+Value of 25^(3/2)?,75,125,625,225,B,25^(3/2)=5^3=125.,Quantitative Aptitude
+"Two numbers ratio 3:5, sum=64. Larger number?",24,36,40,48,C,"8x=64, x=8. Larger=40.",Quantitative Aptitude
+"Boat: 12km upstream in 3hrs, 16km downstream in 2hrs. Stream speed?",1 km/h,2 km/h,3 km/h,4 km/h,B,"Up=4, Down=8. Stream=(8-4)/2=2.",Quantitative Aptitude
+"LCM of 12, 15, 20?",60,120,180,240,A,LCM=2^2x3x5=60.,Quantitative Aptitude
+"Right triangle sides 5, 12, 13. Area?",30 sq cm,60 sq cm,65 sq cm,32.5 sq cm,A,Area=0.5x5x12=30.,Quantitative Aptitude
+Rs.8000 at 5% SI amounts to Rs.10000 in how many years?,4,5,6,3,B,SI=2000. T=2000x100/(8000x5)=5.,Quantitative Aptitude
+tan 45 degrees = ?,0,1,1/root2,root3,B,The value of tan 45 degrees equals 1. This is a standard trigonometric value that should be memorized.,Quantitative Aptitude
+Circumference=44cm. Diameter? (pi=22/7),7 cm,14 cm,21 cm,28 cm,B,d=44x7/22=14.,Quantitative Aptitude
+Number gives remainder 4 on dividing by 7. Remainder when squared divided by 7?,1,2,3,4,B,"n=7q+4, n^2 mod 7 = 16 mod 7 = 2.",Quantitative Aptitude
+"60% pass English, 70% Maths, 40% both. Fail in both?",5%,10%,15%,20%,B,Pass either=60+70-40=90. Fail both=10%.,Quantitative Aptitude
+Synonym of Abundant?,Scarce,Plentiful,Meagre,Insufficient,B,Abundant means in large quantities. Plentiful is its synonym.,English Comprehension
+Antonym of Benevolent?,Kind,Generous,Malevolent,Charitable,C,Benevolent means kindly. Malevolent (ill-willed) is the opposite.,English Comprehension
+Idiom: To burn the midnight oil means?,To waste resources,To work late at night,To set fire,To cook at night,B,It means to work or study late into the night.,English Comprehension
+One word for a person who loves books?,Bibliophile,Philanthropist,Misanthropist,Audiophile,A,Bibliophile means a person who loves books.,English Comprehension
+Error in: Each of the boys (A)/ have completed (B)/ their homework (C)/ on time (D),A,B,C,D,B,Each is singular; verb should be has completed.,English Comprehension
+Improve: He told me that he is going to Delhi.,He told me that he was going to Delhi,He told me he will go,He told me he goes to Delhi,No improvement,A,Reported speech requires tense change: is going becomes was going.,English Comprehension
+She has been working here _____ 2015.,from,for,since,by,C,Since is used with a point in time (2015).,English Comprehension
+Passive of: The teacher teaches the students.,The students are taught by the teacher,The students were taught by the teacher,The students is taught by the teacher,The students have been taught,A,Present simple passive: Object + are + V3 + by + Subject.,English Comprehension
+"Indirect speech of: He said, I am very busy now.",He said that he was very busy then,He said that he is very busy now,He said that I am very busy,He said he has been busy,A,"am->was, I->he, now->then in indirect speech.",English Comprehension
+Correctly spelt word?,Accomodation,Accommodation,Acomodation,Acommodation,B,Accommodation has double c and double m.,English Comprehension
+A white elephant means?,A rare animal,A costly but useless possession,A royal gift,Something pure,B,A white elephant is a costly possession that is useless or burdensome.,English Comprehension
+Synonym of Gregarious?,Solitary,Sociable,Timid,Hostile,B,Gregarious means sociable or fond of company.,English Comprehension
+Neither of the brothers _____ present.,were,are,was,have been,C,Neither takes singular verb: was.,English Comprehension
+Antonym of Prudent?,Wise,Cautious,Reckless,Careful,C,Prudent means careful. Reckless is the opposite.,English Comprehension
+One word for government by the people?,Autocracy,Monarchy,Democracy,Theocracy,C,Democracy = demos (people) + kratos (rule).,English Comprehension
+Error in: One of the student (A)/ was absent (B)/ from class (C)/ yesterday (D),A,B,C,D,A,"After one of the, plural noun needed: students.",English Comprehension
+To let the cat out of the bag means?,Release an animal,Reveal a secret,Be careless,Start a fight,B,It means to accidentally reveal a secret.,English Comprehension
+Correct article: He is ___ European.,an,a,the,no article,B,European starts with consonant sound yu so use a.,English Comprehension
+Active voice of: The cake was eaten by the children.,The children ate the cake,The children eat the cake,The children have eaten the cake,The children eats the cake,A,Past passive to active: Subject + V2 + Object.,English Comprehension
+Choose the correctly spelt word:,Beautyful,Beautifull,Beautiful,Beutiful,C,Correct spelling is Beautiful.,English Comprehension
+"If I _____ a bird, I would fly.",am,was,were,be,C,Unreal conditional uses were for all subjects.,English Comprehension
+One word for person speaking many languages?,Linguist,Polyglot,Bilingual,Translator,B,Polyglot = person who speaks several languages.,English Comprehension
+Synonym of Ephemeral?,Permanent,Eternal,Transient,Everlasting,C,Ephemeral means short-lived. Transient is its synonym.,English Comprehension
+Error in: The furnitures (A)/ in this room (B)/ are expensive (C)/ and nice (D),A,B,C,D,A,Furniture is uncountable. Should be The furniture.,English Comprehension
+Once in a blue moon means?,During full moon,Very rarely,At night,Frequently,B,Once in a blue moon means very rarely.,English Comprehension

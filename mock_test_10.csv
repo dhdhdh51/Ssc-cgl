@@ -1,0 +1,101 @@
+question,option_a,option_b,option_c,option_d,correct,explanation,subject
+Find next: 5 10 20 40 80 ?,120,150,100,160,D,Each term doubles. 80*2=160.,General Intelligence and Reasoning
+Statement: All dogs are animals. Some animals are cats. Conclusion I: Some dogs are cats. Conclusion II: Some cats are animals.,Only II follows,Only I follows,Neither follows,Both follow,A,Some animals are cats means some cats are animals (II). But the some animals that are cats may not be dogs (I is uncertain).,General Intelligence and Reasoning
+If MAP is coded as OCS (each +2) then PEN is coded as?,RFP,QGP,RHP,RGP,D,P+2=R E+2=G N+2=P. PEN=RGP.,General Intelligence and Reasoning
+Odd one out: 125 64 27 8 12,125,27,64,12,D,125=5^3 64=4^3 27=3^3 8=2^3. 12 is not a perfect cube.,General Intelligence and Reasoning
+A boy facing south turns 45 degrees clockwise then 90 degrees anticlockwise. He now faces?,North-East,North-West,South-West,South-East,D,South + 45 clockwise = South-West. South-West + 90 anticlockwise = South-East.,General Intelligence and Reasoning
+Analogy: Pen:Ink :: Car:?,Wheel,Petrol,Road,Driver,B,Pen uses ink to function. Car uses petrol to function.,General Intelligence and Reasoning
+If in code language EARTH is GCTVJ (each letter +2) then MOON is coded as?,OQPP,NPPQ,OPQN,OQQP,D,M+2=O O+2=Q O+2=Q N+2=P. MOON=OQQP.,General Intelligence and Reasoning
+If in a code language EARTH is written as GCTVJ (+2 shift) then MOON is coded as?,OQQP,OQPP,PRRQ,NPPN,A,M+2=O O+2=Q O+2=Q N+2=P. MOON=OQQP.,General Intelligence and Reasoning
+On a standard dice 1 is opposite to 6 and 2 is opposite to 5. What is opposite to 3?,2,5,6,4,D,On a standard dice opposite faces sum to 7. Opposite of 3 is 4.,General Intelligence and Reasoning
+If February 1 is Monday then March 1 of same non-leap year is?,Wednesday,Sunday,Tuesday,Monday,D,February has 28 days in non-leap year. 28 mod 7=0. So March 1 is same day as Feb 1 = Monday.,General Intelligence and Reasoning
+Complete: 1 4 27 256 ?,2048,625,3125,1024,C,Pattern: 1^1 2^2 3^3 4^4 5^5. 5^5=3125.,General Intelligence and Reasoning
+In a family of 6 there are 2 married couples. A is grandmother of D. B is wife of C. C is son of A. E is daughter of B. F is son of C. How is D related to F?,Siblings or same person,Cousin,Uncle,Nephew,A,A is grandmother. C is A's son. B is wife of C. E is daughter of B and C. F is son of C. D is grandchild of A so D is either E or F or another child of C. D and F are siblings.,General Intelligence and Reasoning
+Alphabet series: B D G K P ?,V,W,U,T,A,Gaps: +2 +3 +4 +5 +6. P+6=V.,General Intelligence and Reasoning
+Which word CANNOT be formed from DEMOCRATIC?,METRIC,DIRECT,CREATE,CREAM,D,D-E-M-O-C-R-A-T-I-C. CREAM=C R E A M (all present). DIRECT=D I R E C T (all present). METRIC=M E T R I C (all present). CREATE=C R E A T E needs 2 Es but only 1 E in DEMOCRATIC. CREATE cannot be formed.,General Intelligence and Reasoning
+Clock: At what time between 2 and 3 will the hands be at right angle?,2 hrs 27 3/11 minutes,2 hrs 30 minutes,2 hrs 20 minutes,2 hrs 25 minutes,A,Right angle=90 degrees. Formula: angle=|30H-11M/2|. 90=|60-11M/2|. 11M/2=30 or 11M/2=150. M=60/11=5.45 (before 2:06 invalid for between 2-3). 11M/2=150 gives M=300/11=27 3/11. Time is 2:27 3/11.,General Intelligence and Reasoning
+Emotional Intelligence: Your friend is publicly criticized unfairly at work. Best response?,Join in criticizing,Laugh it off,Support your friend privately and suggest constructive steps,Ignore the situation entirely,C,Emotional intelligence involves empathy and support. The best response is private support and constructive guidance.,General Intelligence and Reasoning
+Number series: 3 5 9 15 23 33 ?,45,43,46,44,A,Differences: 2 4 6 8 10. Next diff=12. 33+12=45.,General Intelligence and Reasoning
+If all As are Bs and no B is C then?,All As are Cs,Some As are Cs,No A is C,Some Cs are As,C,All As are Bs. No B is C. Since all As fall within Bs and no B overlaps C then no A can be C.,General Intelligence and Reasoning
+Social Intelligence: During a team meeting one member dominates and others cannot share ideas. As team leader you should?,Politely intervene and invite others to share their views,End the meeting,Let the dominant person continue,Criticize the dominant person publicly,A,Social intelligence requires managing group dynamics diplomatically by creating space for all voices.,General Intelligence and Reasoning
+Input: 81 23 47 56 12 39. Machine arranges in ascending order one number per step from left. After Step 2 output?,12 23 47 56 81 39,12 23 81 47 56 39,23 12 47 56 81 39,12 81 23 47 56 39,B,Step1: smallest (12) goes to position 1: 12 81 23 47 56 39. Step2: next smallest (23) to position 2: 12 23 81 47 56 39.,General Intelligence and Reasoning
+If TRAIN=62 (T=20 R=18 A=1 I=9 N=14) then PLANE=?,52,48,50,55,B,P=16 L=12 A=1 N=14 E=5. Sum=16+12+1+14+5=48.,General Intelligence and Reasoning
+Critical thinking: A shop says Buy 2 Get 1 Free on items costing Rs 100 each. Effective discount per item?,25%,66.67%,50%,33.33%,D,Pay for 2 items (Rs 200) get 3 items. Per item cost=200/3=66.67. Discount=(100-66.67)/100=33.33%.,General Intelligence and Reasoning
+Figures: Triangle Square Pentagon Hexagon ?,Rectangle,Circle,Octagon,Heptagon,D,Pattern: 3 sides 4 sides 5 sides 6 sides next is 7 sides = Heptagon.,General Intelligence and Reasoning
+In a code CAT=24 (sum of positions C=3 A=1 T=20) then DOG equals?,26,30,28,24,A,D=4 O=15 G=7. Sum=4+15+7=26.,General Intelligence and Reasoning
+Pattern: AE BF CG DH ?,EI,FJ,EH,DJ,A,First letter: A B C D E (+1). Second letter: E F G H I (+1). Next is EI.,General Intelligence and Reasoning
+Dholavira an Indus Valley site is in which state?,Haryana,Rajasthan,Gujarat,Maharashtra,C,Dholavira is a Harappan site in Gujarat known for water management systems. UNESCO site since 2021.,General Awareness
+Mohiniyattam dance form is from?,Tamil Nadu,Kerala,Karnataka,Andhra Pradesh,B,Mohiniyattam is a classical dance from Kerala performed solo by women.,General Awareness
+Periyar Wildlife Sanctuary is in which state?,Tamil Nadu,Kerala,Andhra Pradesh,Karnataka,B,Periyar Wildlife Sanctuary is in Thekkady Kerala famous for elephants.,General Awareness
+Who discovered the structure of DNA?,Watson and Crick,Mendel,Darwin,Lamarck,A,James Watson and Francis Crick discovered the double helix structure of DNA in 1953.,General Awareness
+Mars Orbiter Mission (Mangalyaan) was launched by ISRO in?,2012,2013,2014,2015,B,Mangalyaan was launched on November 5 2013 and entered Mars orbit on September 24 2014.,General Awareness
+Malgudi Days was written by?,Ruskin Bond,R.K. Narayan,Raja Rao,Mulk Raj Anand,B,Malgudi Days is a collection of short stories by R.K. Narayan set in fictional town Malgudi.,General Awareness
+India hosted FIFA U-17 World Cup in which year?,2016,2018,2019,2017,D,India hosted the FIFA U-17 World Cup in 2017 with matches across six cities.,General Awareness
+Who was the first Indian to receive the Nobel Prize in Economics?,Amartya Sen,Abhijit Banerjee,C.V. Raman,Venkatraman Ramakrishnan,A,Amartya Sen was awarded the Nobel Memorial Prize in Economic Sciences in 1998 for his contributions to welfare economics and social choice theory.,General Awareness
+UNESCO headquarters is in?,Paris,New York,London,Geneva,A,UNESCO (United Nations Educational Scientific and Cultural Organization) is headquartered in Paris France.,General Awareness
+Which river forms the boundary between India and Bangladesh?,Indus,Narmada,Several rivers but major ones are Ganges and Brahmaputra systems,Godavari,C,The India-Bangladesh border is marked by river systems including distributaries of Ganges and Brahmaputra.,General Awareness
+Khajuraho temples are in which state?,Uttar Pradesh,Maharashtra,Madhya Pradesh,Rajasthan,C,Khajuraho temples built by Chandela dynasty are in Madhya Pradesh. UNESCO World Heritage Site.,General Awareness
+Who was the last Mughal Emperor?,Aurangzeb,Bahadur Shah Zafar,Akbar Shah II,Shah Alam II,B,Bahadur Shah Zafar was the last Mughal Emperor deposed by British in 1857.,General Awareness
+What is the chemical formula of common salt?,NaCl,NaOH,CaCl2,KCl,A,Common salt is sodium chloride with formula NaCl.,General Awareness
+Gateway of India is located in?,Delhi,Kolkata,Mumbai,Chennai,C,Gateway of India was built in 1924 in Mumbai to commemorate King George V visit.,General Awareness
+Which Indian chess player became youngest GM in 2024?,Vidit Gujrathi,Arjun Erigaisi,Gukesh D became youngest world champion,Praggnanandhaa,C,D. Gukesh became the youngest World Chess Champion in 2024 at age 18.,General Awareness
+Smallest planet in our solar system?,Venus,Pluto,Mercury,Mars,C,Mercury is the smallest planet in our solar system with diameter about 4879 km.,General Awareness
+Mettur Dam is on which river?,Pennar,Krishna,Tungabhadra,Cauvery,D,Mettur Dam is on the Cauvery River in Tamil Nadu built in 1934.,General Awareness
+The Revolt of 1857 started from which place?,Lucknow,Kanpur,Meerut,Delhi,C,The Revolt of 1857 began on May 10 1857 at Meerut when Indian sepoys mutinied against the British.,General Awareness
+Ramsar Convention is related to?,Forest conservation,Desert conservation,Wetlands conservation,Ocean conservation,C,Ramsar Convention (1971) is an international treaty for conservation and sustainable use of wetlands.,General Awareness
+Chhau dance is from which region?,Eastern India (Jharkhand Odisha West Bengal),North India,South India,Western India,A,Chhau is a semi-classical dance from eastern India performed in Jharkhand Odisha and West Bengal.,General Awareness
+Who discovered gravity?,Copernicus,Albert Einstein,Isaac Newton,Galileo,C,Isaac Newton formulated the law of universal gravitation after observing an apple fall in 1687.,General Awareness
+Which is the driest place in India?,Bikaner,Jodhpur,Jaisalmer,Barmer,C,Jaisalmer in Rajasthan receives the least rainfall in India averaging about 209 mm annually.,General Awareness
+Make in India initiative was launched in?,2014,2015,2013,2016,A,Make in India was launched on September 25 2014 to encourage manufacturing in India.,General Awareness
+Tungabhadra Dam is in which state?,Telangana,Tamil Nadu,Andhra Pradesh,Karnataka,D,Tungabhadra Dam is on the Tungabhadra River in Hospet Karnataka.,General Awareness
+The Upanishads deal primarily with?,Rituals and sacrifices,Philosophical and spiritual knowledge,Grammar and linguistics,Astronomy,B,Upanishads are philosophical texts dealing with concepts like Brahman Atman and moksha.,General Awareness
+Value of sin 45 * cos 45?,sqrt(2)/2,sqrt(2),1/2,1,C,sin45=1/sqrt(2) cos45=1/sqrt(2). Product=1/2.,Quantitative Aptitude
+Surface area of a sphere with radius 14 cm (pi=22/7)?,1232 sq cm,4928 sq cm,616 sq cm,2464 sq cm,D,SA=4*pi*r^2=4*(22/7)*196=2464 sq cm.,Quantitative Aptitude
+What is 25% of 60% of 200?,30,25,35,40,A,60% of 200=120. 25% of 120=30.,Quantitative Aptitude
+Two numbers differ by 5. Their product is 84. The larger number is?,9,12,14,7,B,x-y=5 and xy=84. x=y+5. (y+5)y=84. y^2+5y-84=0. y=7 (positive). Larger=12.,Quantitative Aptitude
+A milk vendor mixes water with milk in ratio 1:4. Profit by selling at cost price?,50%,10%,25%,20%,C,For every 4L milk he adds 1L water making 5L mixture. Sells 5L at price of 4L CP. Profit=(5-4)/4*100=25%.,Quantitative Aptitude
+A man rows 30 km downstream in 5 hours and 18 km upstream in 6 hours. Speed in still water?,4.5 km/h,6 km/h,5 km/h,4 km/h,A,Downstream=30/5=6. Upstream=18/6=3. Still water=(6+3)/2=4.5 km/h.,Quantitative Aptitude
+If CP of 12 articles = SP of 10 articles then profit%?,10%,15%,25%,20%,D,Let CP per article=1. Total CP of 10 articles=10. SP of 10=CP of 12=12. Profit%=(12-10)/10*100=20%.,Quantitative Aptitude
+Value of (32)^(2/5)?,8,2,16,4,D,32=2^5. (2^5)^(2/5)=2^2=4.,Quantitative Aptitude
+A shopkeeper gives 3 successive discounts of 10% 20% and 10% on marked price. Single equivalent discount?,35.2%,30%,40%,35%,A,SP=MP*0.9*0.8*0.9=0.648MP. Discount=1-0.648=0.352=35.2%.,Quantitative Aptitude
+Volume of a cylinder with radius 7 cm and height 10 cm (pi=22/7)?,1080 cm^3,1760 cm^3,1320 cm^3,1540 cm^3,D,V=pi*r^2*h=(22/7)*49*10=1540 cm^3.,Quantitative Aptitude
+Present ages of A and B are 5:6. Four years hence ratio will be 6:7. Age of B?,30 years,24 years,20 years,18 years,B,5x+4:6x+4=6:7. 7(5x+4)=6(6x+4). 35x+28=36x+24. x=4. B=6*4=24.,Quantitative Aptitude
+Two trains of length 100m and 150m run in opposite directions at 40 and 50 km/h. Time to cross?,12 seconds,8 seconds,15 seconds,10 seconds,D,Relative speed=40+50=90 km/h=25 m/s. Total dist=250m. Time=250/25=10 sec.,Quantitative Aptitude
+If (a+b+c)=12 and (a^2+b^2+c^2)=50 then ab+bc+ca=?,44,52,48,47,D,(a+b+c)^2=a^2+b^2+c^2+2(ab+bc+ca). 144=50+2x. 2x=94. x=47.,Quantitative Aptitude
+At what rate CI will Rs 5000 amount to Rs 5408 in 2 years?,4%,6%,3%,5%,A,5000(1+r/100)^2=5408. (1+r/100)^2=1.0816. 1+r/100=1.04. r=4%.,Quantitative Aptitude
+HCF of two numbers is 12 and LCM is 360. If one number is 60 the other is?,84,60,48,72,D,HCF*LCM=product. 12*360=4320. Other=4320/60=72.,Quantitative Aptitude
+Perimeter of rhombus with diagonals 16 cm and 12 cm?,56 cm,40 cm,48 cm,32 cm,B,Half diagonals=8 and 6. Side=sqrt(64+36)=sqrt(100)=10. Perimeter=4*10=40 cm.,Quantitative Aptitude
+Average weight of 8 persons is 50 kg. A new person joins. Average becomes 52 kg. Weight of new person?,62 kg,72 kg,58 kg,68 kg,D,Total before=400. After=52*9=468. New person=468-400=68 kg.,Quantitative Aptitude
+If a:b=3:4 and b:c=2:3 and c:d=5:6 then a:d=?,1:4,3:6,5:8,5:12,D,a:b=3:4 b:c=2:3=4:6 (make b=4). So a:b:c=3:4:6. c:d=5:6=6:36/5. a:b:c:d=3:4:6:36/5. a:d=3:36/5=15:36=5:12.,Quantitative Aptitude
+A number is increased by 10% then decreased by 10%. The result is 891. Original number?,1000,891,810,900,D,x*1.1*0.9=891. x*0.99=891. x=900.,Quantitative Aptitude
+The length of longest rod that can fit in room 12m long 8m wide 9m high?,15 m,19 m,20 m,17 m,D,Diagonal=sqrt(12^2+8^2+9^2)=sqrt(144+64+81)=sqrt(289)=17 m.,Quantitative Aptitude
+Sum of first 20 terms of AP: 3 7 11 15...?,840,780,820,800,C,a=3 d=4. S20=(20/2)(2*3+19*4)=10*(6+76)=10*82=820.,Quantitative Aptitude
+A person buys 5 kg sugar at Rs 40/kg and 3 kg at Rs 50/kg. Average price per kg?,Rs 45,Rs 43.75,Rs 44,Rs 42.50,B,Total cost=200+150=350. Total qty=8 kg. Avg=350/8=43.75.,Quantitative Aptitude
+If the selling price of 5 articles equals cost price of 8 articles then profit or loss%?,37.5% loss,60% profit,60% loss,37.5% profit,B,Let CP per article=1. SP of 5=CP of 8=8. SP per article=8/5. Profit%=(8/5-1)/1*100=60%.,Quantitative Aptitude
+How many 3-digit numbers are divisible by 7?,142,130,128,127,C,First 3-digit div by 7: 105 (7*15). Last: 994 (7*142). Count=142-15+1=128.,Quantitative Aptitude
+The difference between CI and SI on Rs 1000 for 2 years at 5% is?,Rs 2.50,Rs 5,Rs 3,Rs 2,A,SI=1000*5*2/100=100. CI=1000*(1.05)^2-1000=1102.50-1000=102.50. Diff=102.50-100=2.50.,Quantitative Aptitude
+"Choose the word that is most nearly opposite in meaning to ""Benevolent""",Kind,Malevolent,Generous,Charitable,B,"Benevolent means well-meaning and kindly. Its opposite is malevolent, which means having or showing a wish to do evil to others.",English Comprehension
+Meaning of: To bury the hatchet?,To make peace after a quarrel,To hide a weapon,To dig a hole,To start a fight,A,Bury the hatchet means to end a conflict and make peace.,English Comprehension
+One word for: One who is all-powerful?,Omnipotent,Omnivore,Omnipresent,Omniscient,A,Omnipotent means having unlimited or very great power.,English Comprehension
+Change narration: He said to me Where do you live?,He told me where I live,He asked me where I lived,He said where do I live,He asked me where do you live,B,Reporting questions: asked + wh-word + subject + past tense verb. No question mark.,English Comprehension
+Change voice: The police arrested the thief.,The thief was arrested by the police,The thief has been arrested,The thief is arrested by police,The thief arrested the police,A,Simple past active to passive: was + past participle + by agent.,English Comprehension
+Fill blank: I am looking forward ___ meeting you.,on,to,at,for,B,Look forward to + gerund is the correct construction.,English Comprehension
+Synonym of MUNDANE?,Extraordinary,Ordinary,Exciting,Celestial,B,Mundane means lacking interest or excitement. Ordinary is its synonym.,English Comprehension
+Antonym of OPTIMISTIC?,Positive,Cheerful,Pessimistic,Hopeful,C,Optimistic means hopeful about the future. Pessimistic is its opposite.,English Comprehension
+Spot error: He is (A)/ one of the tallest boy (B)/ in the class (C)/ No error (D),C,D,B - boy should be boys,A,C,One of the + superlative + plural noun. Should be tallest boys.,English Comprehension
+Meaning of: Once in a blue moon?,Very rarely,At night,During full moon,Every month,A,Once in a blue moon means something that happens very rarely.,English Comprehension
+One word for: A person who is indifferent to pleasure or pain?,Ascetic,Epicure,Stoic,Hedonist,C,A stoic is someone indifferent to pleasure or pain showing no emotion.,English Comprehension
+Correct preposition: She agreed ___ my proposal.,to,for,on,with,A,Agree to a proposal/plan/suggestion is correct. Agree with a person.,English Comprehension
+Rearrange: won/team/the/our/match,Our team won the match,Team our won the match,Won the match our team,The match won our team,A,Correct order: Our team won the match.,English Comprehension
+One word for: Murder of a king?,Regicide,Suicide,Homicide,Genocide,A,Regicide means the killing of a king.,English Comprehension
+Correct form: The crowd ___ dispersed by the police.,were,have been,are,was,D,Crowd is collective noun treated as singular. Was is correct.,English Comprehension
+Type of sentence: How beautiful the sunset is!,Exclamatory,Imperative,Interrogative,Declarative,A,Expressing strong admiration with exclamation mark makes it exclamatory.,English Comprehension
+Change to passive: Who wrote this letter?,By whom was this letter written,Who was written this letter,This letter was written by whom,By who this letter was written,A,Interrogative passive: By whom + was + subject + past participle.,English Comprehension
+Fill blank: He is accustomed ___ hard work.,for,with,of,to,D,Accustomed to is the correct fixed expression.,English Comprehension
+Choose the correctly spelled word from the options:,Occurence,Occurrence,Occurance,Occurrance,B,"The correct spelling is ""Occurrence"" with double c and double r. This is a commonly misspelled word in English.",English Comprehension
+Meaning of: To have an axe to grind?,To work hard,To sharpen an axe,To cut wood,To have a personal motive,D,To have an axe to grind means having a hidden personal reason for doing something.,English Comprehension
+Indirect speech: Mother said to me Finish your homework.,Mother said that finish homework,Mother told finish your homework,Mother said me to finish homework,Mother told me to finish my homework,D,Imperative indirect: told + object + to + verb. Your becomes my.,English Comprehension
+Word closest to DILIGENT?,Industrious,Negligent,Careless,Lazy,A,Diligent means hardworking and careful. Industrious is its synonym.,English Comprehension
+Select correct sentence:,Mathematic is an interesting subject,Mathematics is an interesting subject,Mathematics is interesting subjects,Mathematics are an interesting subject,B,Mathematics though ending in s is singular noun taking singular verb.,English Comprehension
+Fill blank: Not only he ___ also his brother was present.,and,or,but,yet,C,Not only...but also is the correct correlative conjunction pair.,English Comprehension
+Meaning of: To be on cloud nine?,To be confused,To be flying,To be sad,To be extremely happy,D,On cloud nine means to be extremely happy or elated.,English Comprehension
